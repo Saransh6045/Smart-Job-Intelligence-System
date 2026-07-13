@@ -1,0 +1,451 @@
+job_id,title,company,location,experience,salary,skills,employment_type,industry,work_mode,posted_date
+51,Data Analyst,Cognizant,Hyderabad,0.0,3.4,"Problem Solving, Power BI, Forecasting, Communication, Tableau, Python",Internship,IT Services,On-site,15-Jun-26
+52,Data Analyst,Flipkart,Gurugram,0.5,3.5,"Forecasting, Communication, Python, MySQL, ETL, A/B Testing, Problem Solving",Internship,E-Commerce,On-site,30-Jun-26
+53,Java Developer,Deloitte,Kolkata,0.5,4.1,"REST API, Microservices, OOP, System Design, Kafka, AWS, Hibernate",Internship,Consulting,Remote,24-Jun-26
+54,Data Scientist,Microsoft,Pune,0.0,10.3,"A/B Testing, Python, AWS, SQL, Power BI",Full-Time,Technology,On-site,20-Jun-26
+55,Java Developer,Cognizant,Bangalore,0.0,10.6,"Spring Boot, Redis, Git, MySQL, JUnit",Full-Time,IT Services,On-site,20-Jun-26
+56,Software Engineer,Infosys,Hyderabad,0.5,3.6,"Git, Java, System Design, Problem Solving, AWS, OOP, C++, Data Structures",Internship,IT Services,Remote,04-Jun-26
+57,Java Developer,TCS,Kolkata,0.5,3.6,"Design Patterns, Spring Security, Linux, Redis, Spring Boot",Internship,IT Services,On-site,10-Jun-26
+58,AI Engineer,Adobe,Bangalore,0.5,6.6,"Deep Learning, Docker, Kubernetes, MLOps, TensorFlow, RAG, Linux",Internship,Technology,On-site,02-Jun-26
+59,Software Engineer,Infosys,Hyderabad,0.5,3.5,"Problem Solving, Debugging, Docker, Java, System Design, JavaScript",Internship,IT Services,On-site,30-Jun-26
+60,Data Engineer,Google,Delhi,0.0,5.3,"Data Cleaning, ETL, Big Data, Airflow, ETL, Python, Business Intelligence, AWS",Internship,Technology,On-site,05-Jun-26
+61,ML Engineer,Amazon,Bangalore,2.0,13.0,"Python, Feature Engineering, Kafka, PyTorch, Model Deployment",Full-Time,E-Commerce,On-site,27-Jun-26
+62,Java Developer,Accenture,Hyderabad,1.0,5.8,"Docker, Maven, Java, Design Patterns, MySQL, JUnit, Spring Security",Full-Time,Consulting,Remote,21-Jun-26
+63,AI Engineer,Meta,Mumbai,0.5,5.8,"Deep Learning, NLP, MLOps, Vector Databases, Prompt Engineering, Computer Vision, TensorFlow, Python",Internship,Technology,Remote,09-Jun-26
+64,Backend Developer,Netflix,Noida,0.0,5.2,"Git, Java, MongoDB, System Design, JUnit, CI/CD, REST API, Caching",Internship,Entertainment,On-site,17-Jun-26
+65,Java Developer,Infosys,Chennai,0.0,5.8,"Linux, AWS, CI/CD, Docker, Git, Redis, MySQL, Kafka",Full-Time,IT Services,Remote,28-Jun-26
+66,Data Analyst,Accenture,Kolkata,0.5,3.7,"Data Visualization, Data Cleaning, Reporting, Problem Solving, Data Mining, Python",Internship,Consulting,On-site,14-Jun-26
+67,Backend Developer,Microsoft,Gurugram,2.0,10.6,"MySQL, Microservices, Spring Security, PostgreSQL, Nginx",Full-Time,Technology,On-site,22-Jun-26
+68,AI Engineer,Meta,Pune,2.0,17.0,"Model Deployment, Deep Learning, NLP, Transformers, MLOps, Git, LangChain",Full-Time,Technology,On-site,10-Jun-26
+69,Data Scientist,Google,Pune,0.0,5.5,"A/B Testing, Power BI, Jupyter, AWS, SQL",Internship,Technology,Remote,03-Jun-26
+70,Data Scientist,Google,Delhi,0.0,10.9,"AWS, A/B Testing, Data Visualization, Python, NumPy",Full-Time,Technology,Remote,06-Jun-26
+71,ML Engineer,Amazon,Noida,0.5,5.0,"MLOps, PyTorch, CI/CD, Python, Git",Internship,E-Commerce,Remote,19-Jun-26
+72,Data Scientist,Google,Hyderabad,0.0,10.2,"PyTorch, Deep Learning, SQL, A/B Testing, Statistics, Python, NumPy, Big Data",Full-Time,Technology,On-site,03-Jun-26
+73,AI Engineer,Microsoft,Gurugram,0.5,5.9,"Git, Kubernetes, Docker, LLMs, Deep Learning, Prompt Engineering, Machine Learning",Internship,Technology,Remote,28-Jun-26
+74,Software Engineer,Microsoft,Hyderabad,0.5,3.1,"MySQL, CI/CD, Problem Solving, Testing, Git",Internship,Technology,Remote,27-Jun-26
+75,Cloud Engineer,Amazon,Pune,1.0,9.1,"Git, Docker, Cloud Security, CI/CD, Bash",Full-Time,E-Commerce,Remote,22-Jun-26
+76,Java Developer,Cognizant,Gurugram,0.0,9.9,"Maven, JPA, MySQL, Spring Security, Git, REST API",Full-Time,IT Services,Remote,30-Jun-26
+77,Software Engineer,TCS,Mumbai,0.5,4.9,"JavaScript, Git, Java, AWS, REST API, Data Structures, Debugging, Linux",Internship,IT Services,Remote,23-Jun-26
+78,Cloud Engineer,TCS,Chennai,0.0,6.1,"Monitoring, Jenkins, Bash, Load Balancing, AWS, Python, Docker",Internship,IT Services,Remote,28-Jun-26
+79,Data Scientist,Google,Chennai,0.0,4.4,"Data Visualization, Scikit-Learn, PyTorch, Power BI, Data Mining, Python, NumPy",Internship,Technology,Remote,04-Jun-26
+80,ML Engineer,Adobe,Noida,0.5,5.4,"MLOps, Deep Learning, AWS, Model Deployment, Linux",Internship,Technology,Remote,21-Jun-26
+81,Backend Developer,Google,Mumbai,0.5,5.1,"Spring Security, Spring Boot, PostgreSQL, Kafka, Nginx",Internship,Technology,Remote,21-Jun-26
+82,Cloud Engineer,Microsoft,Bangalore,2.0,15.9,"Git, Jenkins, Load Balancing, AWS, Bash, Linux, Networking",Full-Time,Technology,On-site,03-Jun-26
+83,Cloud Engineer,TCS,Bangalore,0.0,5.6,"CI/CD, AWS, Cost Optimization, GCP, Terraform, Infrastructure as Code, Git",Internship,IT Services,On-site,17-Jun-26
+84,ML Engineer,Microsoft,Chennai,1.0,14.6,"Azure, PyTorch, Kafka, Spark, AWS",Full-Time,Technology,On-site,29-Jun-26
+85,AI Engineer,Meta,Kolkata,0.0,6.3,"Linux, Git, LLMs, Transformers, Machine Learning, Docker, RAG, TensorFlow",Internship,Technology,On-site,16-Jun-26
+86,Backend Developer,Microsoft,Gurugram,0.0,6.4,"Redis, CI/CD, Caching, Spring Security, Java, REST API",Full-Time,Technology,Remote,15-Jun-26
+87,Data Analyst,Accenture,Pune,2.0,9.0,"Tableau, Power BI, Dashboarding, Pandas, R Programming, A/B Testing, Python, Excel",Full-Time,Consulting,On-site,05-Jun-26
+88,ML Engineer,Meta,Kolkata,2.0,17.7,"Linux, Spark, Python, Docker, Model Deployment, NLP, Machine Learning, Kafka",Full-Time,Technology,Remote,15-Jun-26
+89,Java Developer,TCS,Pune,0.0,4.9,"REST API, Spring Security, JUnit, Microservices, OOP, Design Patterns, Hibernate, Git",Internship,IT Services,On-site,07-Jun-26
+90,Software Engineer,Amazon,Pune,0.0,5.2,"REST API, Docker, C++, Microservices, Linux, Debugging",Internship,E-Commerce,On-site,30-Jun-26
+91,AI Engineer,Google,Noida,2.0,12.0,"AWS, Deep Learning, Python, Machine Learning, TensorFlow, Docker, Model Deployment, Vector Databases",Full-Time,Technology,Remote,28-Jun-26
+92,Software Engineer,Infosys,Pune,0.5,5.0,"Git, Linux, CI/CD, Microservices, JavaScript, Data Structures",Internship,IT Services,On-site,19-Jun-26
+93,AI Engineer,Microsoft,Delhi,0.0,5.0,"Computer Vision, RAG, Vector Databases, MLOps, Docker, Model Deployment, PyTorch, Machine Learning",Internship,Technology,Remote,03-Jun-26
+94,AI Engineer,Microsoft,Chennai,2.0,14.7,"Transformers, Computer Vision, LLMs, Vector Databases, Kubernetes",Full-Time,Technology,On-site,13-Jun-26
+95,Data Scientist,Meta,Chennai,0.0,10.6,"SQL, Big Data, A/B Testing, Data Visualization, Data Mining, Tableau, Pandas",Full-Time,Technology,Remote,08-Jun-26
+96,Full Stack Developer,Google,Mumbai,2.0,12.8,"CSS, Firebase, CI/CD, JWT, REST API, Git",Full-Time,Technology,On-site,29-Jun-26
+97,Cloud Engineer,Microsoft,Noida,2.0,14.1,"Serverless, CI/CD, Jenkins, Monitoring, Linux, Terraform",Full-Time,Technology,Remote,03-Jun-26
+98,Data Scientist,Google,Kolkata,1.0,11.4,"Tableau, SQL, A/B Testing, PyTorch, NumPy, Pandas, Feature Engineering, Scikit-Learn",Full-Time,Technology,Remote,18-Jun-26
+99,Data Engineer,Microsoft,Mumbai,0.5,4.1,"NoSQL, CI/CD, Kafka, PySpark, Data Visualization, Dashboarding",Internship,Technology,On-site,05-Jun-26
+100,ML Engineer,Microsoft,Bangalore,0.5,4.7,"Kubernetes, TensorFlow, Model Deployment, Kafka, PyTorch, Feature Engineering, Azure",Internship,Technology,Remote,12-Jun-26
+101,ML Engineer,Amazon,Chennai,0.0,16.3,"Feature Engineering, CI/CD, Deep Learning, AWS, TensorFlow",Full-Time,E-Commerce,Remote,23-Jun-26
+102,Full Stack Developer,Flipkart,Delhi,0.5,5.3,"HTML, Firebase, MongoDB, REST API, Redux, AWS, JWT",Internship,E-Commerce,On-site,02-Jun-26
+103,Cloud Engineer,TCS,Gurugram,0.5,4.9,"AWS, Cloud Security, Python, DNS, Terraform, Load Balancing, Jenkins",Internship,IT Services,Remote,20-Jun-26
+104,Software Engineer,Amazon,Delhi,2.0,7.1,"Algorithms, C++, System Design, AWS, REST API, Data Structures",Full-Time,E-Commerce,On-site,23-Jun-26
+105,ML Engineer,Microsoft,Noida,0.5,4.3,"TensorFlow, Machine Learning, SQL, Kubernetes, PyTorch, MLOps, Feature Engineering",Internship,Technology,On-site,13-Jun-26
+106,Data Scientist,Amazon,Hyderabad,0.0,5.3,"PyTorch, AWS, Deep Learning, Data Mining, Data Visualization",Internship,E-Commerce,On-site,21-Jun-26
+107,Data Scientist,Amazon,Pune,1.0,14.1,"Scikit-Learn, A/B Testing, Big Data, Tableau, NumPy",Full-Time,E-Commerce,Remote,21-Jun-26
+108,Full Stack Developer,Amazon,Gurugram,1.0,11.7,"AWS, Tailwind CSS, JavaScript, CSS, JWT",Full-Time,E-Commerce,Remote,09-Jun-26
+109,Java Developer,Deloitte,Kolkata,0.0,3.7,"Git, Java, Spring Boot, Linux, Design Patterns",Internship,Consulting,On-site,30-Jun-26
+110,Backend Developer,Google,Delhi,0.5,4.5,"Caching, Docker, PostgreSQL, MySQL, Microservices, Kafka",Internship,Technology,On-site,12-Jun-26
+111,Java Developer,Deloitte,Mumbai,2.0,11.3,"JUnit, JPA, AWS, Redis, Maven, OOP, Linux",Full-Time,Consulting,On-site,11-Jun-26
+112,Software Engineer,Amazon,Chennai,2.0,6.3,"Testing, OOP, Data Structures, SQL, Debugging, MySQL",Full-Time,E-Commerce,Remote,02-Jun-26
+113,Data Analyst,Deloitte,Chennai,0.5,3.9,"Data Mining, Communication, R Programming, MySQL, Pandas",Internship,Consulting,Remote,13-Jun-26
+114,Backend Developer,Flipkart,Noida,0.0,3.3,"MySQL, AWS, API Design, Linux, Java, System Design",Internship,E-Commerce,Remote,22-Jun-26
+115,ML Engineer,Google,Kolkata,0.0,13.3,"PyTorch, Deep Learning, Kafka, Model Deployment, CI/CD, Azure, NLP, Linux",Full-Time,Technology,On-site,15-Jun-26
+116,Data Scientist,Amazon,Mumbai,0.5,5.9,"Python, TensorFlow, Jupyter, Feature Engineering, SQL, PyTorch, Statistics",Internship,E-Commerce,Remote,15-Jun-26
+117,Java Developer,TCS,Kolkata,0.0,3.2,"Linux, Spring Boot, MySQL, Java, System Design, Microservices",Internship,IT Services,On-site,10-Jun-26
+118,Full Stack Developer,Flipkart,Mumbai,0.0,8.7,"Bootstrap, MongoDB, Tailwind CSS, REST API, Express.js, Git",Full-Time,E-Commerce,Remote,11-Jun-26
+119,AI Engineer,Meta,Kolkata,0.0,18.0,"Deep Learning, AWS, RAG, Computer Vision, NLP",Full-Time,Technology,On-site,22-Jun-26
+120,AI Engineer,Microsoft,Gurugram,2.0,12.6,"NLP, Linux, PyTorch, MLOps, LangChain, TensorFlow, Computer Vision, AWS",Full-Time,Technology,Remote,15-Jun-26
+121,Full Stack Developer,Microsoft,Noida,1.0,13.5,"React, JavaScript, Docker, Bootstrap, Redux, Node.js, Express.js",Full-Time,Technology,On-site,26-Jun-26
+122,Software Engineer,TCS,Chennai,2.0,7.6,"Python, Testing, OOP, Microservices, Data Structures, Debugging, Java",Full-Time,IT Services,Remote,20-Jun-26
+123,Java Developer,Accenture,Delhi,1.0,11.6,"Spring Boot, System Design, JUnit, REST API, Spring Security, Microservices",Full-Time,Consulting,Remote,07-Jun-26
+124,ML Engineer,Adobe,Bangalore,0.0,16.3,"Model Deployment, NLP, Deep Learning, CI/CD, Azure, Git",Full-Time,Technology,On-site,30-Jun-26
+125,Data Engineer,Amazon,Chennai,0.0,11.3,"Big Data, Excel, Data Cleaning, Tableau, Data Visualization, CI/CD, Airflow, Problem Solving",Full-Time,E-Commerce,Remote,04-Jun-26
+126,AI Engineer,Adobe,Mumbai,0.0,13.1,"Model Deployment, LangChain, TensorFlow, RAG, AWS, Linux, LLMs, Computer Vision",Full-Time,Technology,On-site,26-Jun-26
+127,Java Developer,TCS,Bangalore,0.0,3.3,"OOP, Java, Microservices, Redis, JPA",Internship,IT Services,Remote,16-Jun-26
+128,Data Scientist,Meta,Noida,0.5,4.7,"Data Mining, SQL, Machine Learning, A/B Testing, Statistics, Big Data, Deep Learning",Internship,Technology,Remote,13-Jun-26
+129,Full Stack Developer,Amazon,Mumbai,0.5,5.4,"Node.js, AWS, TypeScript, Firebase, Bootstrap, Docker, CSS, Express.js",Internship,E-Commerce,On-site,06-Jun-26
+130,Java Developer,Deloitte,Hyderabad,1.0,7.7,"Git, Maven, JUnit, OOP, Redis, Hibernate",Full-Time,Consulting,On-site,10-Jun-26
+131,Backend Developer,Microsoft,Kolkata,0.5,5.8,"MySQL, Microservices, System Design, CI/CD, Redis, Linux, JUnit",Internship,Technology,On-site,26-Jun-26
+132,Data Analyst,Amazon,Hyderabad,0.0,5.0,"R Programming, Google Sheets, Power BI, Data Cleaning, SQL, Excel, Forecasting",Full-Time,E-Commerce,On-site,09-Jun-26
+133,Java Developer,Accenture,Kolkata,0.0,4.5,"Maven, Linux, AWS, CI/CD, Docker, MySQL, Microservices",Internship,Consulting,On-site,01-Jun-26
+134,ML Engineer,Adobe,Noida,0.0,4.9,"PyTorch, Linux, Git, SQL, MLOps, NLP",Internship,Technology,Remote,03-Jun-26
+135,Data Engineer,Accenture,Delhi,2.0,15.6,"Hadoop, Dashboarding, Python, NoSQL, Statistics, Tableau",Full-Time,Consulting,Remote,21-Jun-26
+136,Full Stack Developer,Infosys,Mumbai,0.5,4.9,"Redux, JWT, Firebase, Next.js, Docker, Bootstrap, CSS, JavaScript",Internship,IT Services,Remote,22-Jun-26
+137,Data Analyst,Cognizant,Hyderabad,0.0,3.3,"Forecasting, Data Visualization, A/B Testing, Problem Solving, Power BI, Pandas",Internship,IT Services,On-site,22-Jun-26
+138,Data Scientist,Flipkart,Hyderabad,2.0,9.9,"Feature Engineering, Big Data, Data Visualization, AWS, Jupyter, Power BI, Scikit-Learn",Full-Time,E-Commerce,Remote,30-Jun-26
+139,Software Engineer,Cognizant,Kolkata,0.5,5.3,"Testing, Linux, AWS, Data Structures, System Design, Debugging",Internship,IT Services,On-site,05-Jun-26
+140,Backend Developer,Amazon,Hyderabad,1.0,13.3,"Redis, Git, Microservices, Docker, Spring Boot, System Design",Full-Time,E-Commerce,On-site,03-Jun-26
+141,ML Engineer,Meta,Chennai,1.0,17.7,"PyTorch, Feature Engineering, Git, Spark, Model Deployment, Azure, TensorFlow, CI/CD",Full-Time,Technology,Remote,17-Jun-26
+142,Backend Developer,Netflix,Delhi,0.0,14.8,"AWS, Java, API Design, JUnit, REST API",Full-Time,Entertainment,On-site,15-Jun-26
+143,Data Analyst,Amazon,Kolkata,0.5,3.8,"Tableau, Communication, Statistics, SQL, Google Sheets",Internship,E-Commerce,On-site,21-Jun-26
+144,Data Analyst,Deloitte,Gurugram,0.5,3.2,"Problem Solving, Python, R Programming, Data Cleaning, A/B Testing, MySQL, Forecasting, Dashboarding",Internship,Consulting,On-site,09-Jun-26
+145,Cloud Engineer,Amazon,Gurugram,0.5,4.3,"Kubernetes, Git, GCP, Terraform, Cost Optimization, Jenkins",Internship,E-Commerce,On-site,06-Jun-26
+146,Data Scientist,Meta,Noida,0.0,9.5,"Data Visualization, Machine Learning, Azure, Tableau, Big Data, Pandas",Full-Time,Technology,Remote,05-Jun-26
+147,Full Stack Developer,Amazon,Chennai,2.0,10.3,"Bootstrap, Next.js, Docker, CI/CD, Node.js, CSS",Full-Time,E-Commerce,Remote,20-Jun-26
+148,Data Engineer,Accenture,Kolkata,2.0,11.1,"Kafka, MySQL, ETL, Big Data, Excel",Full-Time,Consulting,Remote,22-Jun-26
+149,Java Developer,TCS,Hyderabad,2.0,8.3,"Microservices, Java, Design Patterns, System Design, Spring Boot, REST API",Full-Time,IT Services,On-site,08-Jun-26
+150,Data Engineer,Google,Kolkata,2.0,12.6,"Reporting, Statistics, NoSQL, Docker, Forecasting, Gitics, Dashboarding",Full-Time,Technology,Remote,19-Jun-26
+151,Java Developer,Cognizant,Hyderabad,0.0,3.4,"Java, Redis, REST API, Microservices, System Design",Internship,IT Services,On-site,18-Jun-26
+152,Cloud Engineer,Google,Chennai,0.0,14.3,"Load Balancing, Networking, Linux, Cost Optimization, Azure, Serverless, Infrastructure as Code, DNS",Full-Time,Technology,Remote,17-Jun-26
+153,Software Engineer,Google,Noida,0.0,4.2,"CI/CD, Problem Solving, AWS, MySQL, Debugging, Java, Docker",Internship,Technology,Remote,11-Jun-26
+154,Java Developer,Deloitte,Pune,0.5,4.3,"Linux, MySQL, JPA, Docker, Kafka, CI/CD, Git",Internship,Consulting,On-site,05-Jun-26
+155,Data Scientist,Flipkart,Chennai,2.0,9.6,"NumPy, A/B Testing, Data Mining, Statistics, Feature Engineering, Jupyter, PyTorch",Full-Time,E-Commerce,On-site,14-Jun-26
+156,Cloud Engineer,Google,Mumbai,2.0,8.7,"Networking, Azure, Serverless, Bash, AWS, DNS, Cost Optimization",Full-Time,Technology,On-site,28-Jun-26
+157,ML Engineer,Google,Pune,2.0,17.7,"Machine Learning, AWS, Computer Vision, CI/CD, Kubernetes, Python, Model Deployment, Azure",Full-Time,Technology,On-site,19-Jun-26
+158,Java Developer,Infosys,Kolkata,1.0,7.3,"Hibernate, Spring Security, JUnit, MySQL, REST API, Microservices, Git",Full-Time,IT Services,On-site,07-Jun-26
+159,Full Stack Developer,Google,Kolkata,0.0,9.9,"HTML, JavaScript, Next.js, Node.js, Docker",Full-Time,Technology,On-site,24-Jun-26
+160,Software Engineer,Microsoft,Mumbai,0.0,4.6,"Linux, CI/CD, REST API, C++, MySQL, SQL, Docker, System Design",Internship,Technology,Remote,17-Jun-26
+161,Data Analyst,Amazon,Gurugram,1.0,4.3,"MySQL, Data Visualization, Reporting, Python, Pandas, Data Mining, Tableau",Full-Time,E-Commerce,Remote,08-Jun-26
+162,AI Engineer,Google,Delhi,0.0,18.3,"LLMs, Vector Databases, Docker, Prompt Engineering, Transformers",Full-Time,Technology,Remote,23-Jun-26
+163,Full Stack Developer,Google,Kolkata,0.0,3.9,"SQL, Redux, Git, JavaScript, CSS, JWT, MongoDB, Docker",Internship,Technology,Remote,16-Jun-26
+164,Full Stack Developer,Google,Gurugram,2.0,13.4,"MongoDB, Node.js, Docker, React, SQL, HTML, CSS",Full-Time,Technology,On-site,17-Jun-26
+165,Software Engineer,Google,Pune,0.0,12.2,"JavaScript, Java, REST API, Debugging, AWS, Algorithms",Full-Time,Technology,Remote,23-Jun-26
+166,AI Engineer,Adobe,Mumbai,0.5,7.0,"RAG, Computer Vision, MLOps, Deep Learning, Machine Learning, Model Deployment, NLP, LLMs",Internship,Technology,On-site,06-Jun-26
+167,Data Scientist,Flipkart,Bangalore,0.5,5.1,"TensorFlow, Azure, PyTorch, Jupyter, AWS, Deep Learning, Data Visualization, SQL",Internship,E-Commerce,Remote,17-Jun-26
+168,AI Engineer,Microsoft,Bangalore,2.0,14.2,"Computer Vision, Kubernetes, RAG, LLMs, TensorFlow, Transformers",Full-Time,Technology,Remote,06-Jun-26
+169,Java Developer,Accenture,Gurugram,1.0,6.4,"Docker, MySQL, Java, Git, Spring Boot",Full-Time,Consulting,Remote,20-Jun-26
+170,Java Developer,Deloitte,Noida,0.0,5.2,"Git, Docker, Spring Boot, Design Patterns, Spring Security, System Design, JUnit, Hibernate",Full-Time,Consulting,Remote,28-Jun-26
+171,Backend Developer,Amazon,Hyderabad,0.0,6.4,"Caching, JUnit, Kafka, API Design, MongoDB, Redis",Full-Time,E-Commerce,On-site,19-Jun-26
+172,Data Scientist,Meta,Gurugram,0.0,4.3,"Machine Learning, NumPy, SQL, Data Visualization, Pandas, Jupyter",Internship,Technology,Remote,18-Jun-26
+173,Backend Developer,Amazon,Pune,0.0,13.9,"Nginx, MongoDB, Spring Boot, Java, CI/CD",Full-Time,E-Commerce,Remote,07-Jun-26
+174,Full Stack Developer,Infosys,Hyderabad,0.5,4.2,"Next.js, Docker, React, Node.js, TypeScript, Bootstrap",Internship,IT Services,On-site,28-Jun-26
+175,Full Stack Developer,Google,Noida,2.0,8.0,"Next.js, Express.js, JavaScript, Redux, SQL",Full-Time,Technology,On-site,24-Jun-26
+176,Backend Developer,Google,Delhi,0.5,5.4,"MongoDB, Kafka, Linux, REST API, Spring Boot",Internship,Technology,On-site,14-Jun-26
+177,Data Analyst,Accenture,Pune,0.5,2.6,"SQL, Google Sheets, Reporting, Power BI, Data Mining, Tableau",Internship,Consulting,On-site,30-Jun-26
+178,Cloud Engineer,Microsoft,Gurugram,0.5,6.7,"Linux, Kubernetes, Terraform, Git, Infrastructure as Code",Internship,Technology,On-site,02-Jun-26
+179,ML Engineer,Adobe,Mumbai,0.5,7.0,"PyTorch, MLOps, CI/CD, Feature Engineering, Kafka, Linux",Internship,Technology,Remote,15-Jun-26
+180,Data Analyst,Deloitte,Mumbai,0.0,6.1,"SQL, Communication, Statistics, R Programming, Reporting",Full-Time,Consulting,On-site,18-Jun-26
+181,AI Engineer,Meta,Noida,2.0,15.9,"Prompt Engineering, Machine Learning, PyTorch, Vector Databases, Kubernetes, RAG, Deep Learning",Full-Time,Technology,Remote,14-Jun-26
+182,ML Engineer,Adobe,Pune,0.5,5.0,"Git, Spark, MLOps, Deep Learning, TensorFlow, SQL, CI/CD",Internship,Technology,On-site,22-Jun-26
+183,ML Engineer,Amazon,Noida,2.0,12.8,"NLP, PyTorch, Feature Engineering, Deep Learning, Computer Vision, Spark, Machine Learning",Full-Time,E-Commerce,Remote,29-Jun-26
+184,Java Developer,Deloitte,Pune,0.0,4.5,"JUnit, Spring Security, REST API, Design Patterns, Docker, Hibernate",Internship,Consulting,On-site,06-Jun-26
+185,Data Scientist,Meta,Bangalore,0.0,11.1,"Feature Engineering, Data Mining, PyTorch, Python, Tableau, Deep Learning",Full-Time,Technology,On-site,06-Jun-26
+186,Data Analyst,Cognizant,Hyderabad,2.0,8.5,"Google Sheets, Forecasting, Data Mining, Business Intelligence, Excel, Dashboarding, Communication",Full-Time,IT Services,Remote,09-Jun-26
+187,Software Engineer,Infosys,Kolkata,1.0,10.0,"REST API, MySQL, Linux, Microservices, C++",Full-Time,IT Services,Remote,06-Jun-26
+188,Data Engineer,Accenture,Bangalore,2.0,11.0,"MySQL, CI/CD, Data Pipelines, Spark, Google Sheets, AWS, Problem Solving",Full-Time,Consulting,Remote,05-Jun-26
+189,Backend Developer,Microsoft,Mumbai,0.5,4.7,"Spring Boot, Java, JUnit, Spring Security, AWS",Internship,Technology,Remote,10-Jun-26
+190,ML Engineer,Meta,Pune,1.0,14.7,"Kafka, Model Deployment, PyTorch, Azure, Git, Deep Learning, Python",Full-Time,Technology,Remote,28-Jun-26
+191,Data Analyst,Deloitte,Mumbai,1.0,4.9,"Pandas, Problem Solving, MySQL, Dashboarding, Data Mining, R Programming, Data Cleaning, Google Sheets",Full-Time,Consulting,Remote,10-Jun-26
+192,Java Developer,Deloitte,Chennai,2.0,10.9,"Spring Boot, Spring Security, Git, JUnit, Java, Redis, System Design",Full-Time,Consulting,On-site,09-Jun-26
+193,Data Analyst,Flipkart,Pune,0.0,2.7,"R Programming, SQL, Reporting, Tableau, Google Sheets, Data Visualization, Dashboarding",Internship,E-Commerce,Remote,14-Jun-26
+194,ML Engineer,Amazon,Gurugram,0.0,16.5,"SQL, Computer Vision, NLP, TensorFlow, Linux, Azure, Kubernetes, MLOps",Full-Time,E-Commerce,Remote,02-Jun-26
+195,ML Engineer,Amazon,Pune,0.5,6.0,"Azure, Deep Learning, Kubernetes, CI/CD, TensorFlow",Internship,E-Commerce,On-site,14-Jun-26
+196,Backend Developer,Netflix,Bangalore,0.0,11.0,"JUnit, AWS, Docker, Kafka, Git, MySQL",Full-Time,Entertainment,On-site,20-Jun-26
+197,ML Engineer,Microsoft,Delhi,2.0,16.6,"AWS, Kubernetes, Deep Learning, NLP, Feature Engineering, Model Deployment, MLOps",Full-Time,Technology,Remote,18-Jun-26
+198,Software Engineer,Microsoft,Chennai,0.5,3.3,"SQL, JavaScript, Microservices, Problem Solving, AWS, CI/CD",Internship,Technology,Remote,30-Jun-26
+199,Data Analyst,Accenture,Kolkata,0.5,3.9,"Power BI, Statistics, Python, Excel, Data Visualization, A/B Testing",Internship,Consulting,Remote,15-Jun-26
+200,Full Stack Developer,Amazon,Gurugram,2.0,12.1,"REST API, Express.js, Next.js, Node.js, Firebase, MongoDB, HTML",Full-Time,E-Commerce,Remote,17-Jun-26
+201,Java Developer,TCS,Pune,1.0,6.9,"Redis, Design Patterns, JUnit, Microservices, Git, JPA",Full-Time,IT Services,On-site,19-Jun-26
+202,Full Stack Developer,Amazon,Kolkata,1.0,8.0,"React, MongoDB, Bootstrap, CSS, Firebase, JWT",Full-Time,E-Commerce,Remote,16-Jun-26
+203,AI Engineer,Microsoft,Hyderabad,0.0,6.6,"TensorFlow, LLMs, Python, Deep Learning, Kubernetes, PyTorch, MLOps, Transformers",Internship,Technology,Remote,19-Jun-26
+204,Software Engineer,Infosys,Gurugram,0.5,5.0,"Testing, Docker, System Design, SQL, Algorithms, Java, MySQL",Internship,IT Services,On-site,30-Jun-26
+205,Data Scientist,Flipkart,Noida,2.0,13.1,"A/B Testing, Scikit-Learn, Statistics, Machine Learning, Tableau, PyTorch, AWS",Full-Time,E-Commerce,On-site,21-Jun-26
+206,Data Scientist,Amazon,Delhi,0.0,5.8,"PyTorch, Power BI, A/B Testing, Feature Engineering, Deep Learning, SQL, NumPy, Statistics",Internship,E-Commerce,Remote,11-Jun-26
+207,Data Scientist,Meta,Hyderabad,1.0,10.2,"Statistics, Jupyter, NumPy, Tableau, Azure, TensorFlow",Full-Time,Technology,Remote,11-Jun-26
+208,Cloud Engineer,Amazon,Bangalore,0.5,5.6,"AWS, Azure, Docker, Python, Jenkins, GCP, Git, Networking",Internship,E-Commerce,On-site,28-Jun-26
+209,Data Analyst,Amazon,Mumbai,0.0,7.6,"Reporting, Tableau, Pandas, Dashboarding, SQL, Data Visualization, A/B Testing, Problem Solving",Full-Time,E-Commerce,Remote,28-Jun-26
+210,Data Scientist,Google,Chennai,1.0,11.4,"Azure, Machine Learning, A/B Testing, PyTorch, Python, Power BI",Full-Time,Technology,Remote,18-Jun-26
+211,Software Engineer,Cognizant,Kolkata,0.0,4.6,"JavaScript, AWS, Problem Solving, Microservices, OOP, MySQL, C++, SQL",Internship,IT Services,Remote,12-Jun-26
+212,Java Developer,Cognizant,Delhi,1.0,11.7,"Design Patterns, Hibernate, JUnit, Microservices, Redis",Full-Time,IT Services,On-site,05-Jun-26
+213,Data Analyst,Deloitte,Noida,0.5,3.5,"Data Visualization, A/B Testing, Reporting, SQL, Python, Tableau",Internship,Consulting,On-site,25-Jun-26
+214,Software Engineer,Google,Hyderabad,2.0,11.5,"Git, Testing, Python, Data Structures, OOP",Full-Time,Technology,Remote,11-Jun-26
+215,Java Developer,Deloitte,Pune,2.0,7.7,"Maven, JUnit, Spring Boot, Git, Microservices",Full-Time,Consulting,On-site,28-Jun-26
+216,Data Analyst,Amazon,Kolkata,2.0,5.7,"Power BI, Reporting, ETL, Business Intelligence, Google Sheets, Problem Solving",Full-Time,E-Commerce,On-site,01-Jun-26
+217,ML Engineer,Google,Pune,0.5,6.4,"Python, Model Deployment, Kafka, Feature Engineering, Computer Vision, CI/CD, MLOps, Machine Learning",Internship,Technology,On-site,11-Jun-26
+218,Backend Developer,Flipkart,Kolkata,0.5,4.9,"MongoDB, API Design, Microservices, Docker, Spring Security, Kafka",Internship,E-Commerce,On-site,19-Jun-26
+219,Data Analyst,Amazon,Delhi,0.0,9.7,"Statistics, Python, Data Mining, Business Intelligence, Communication, Problem Solving, A/B Testing, Power BI",Full-Time,E-Commerce,Remote,26-Jun-26
+220,Cloud Engineer,Google,Chennai,0.5,4.6,"Infrastructure as Code, Jenkins, Python, Kubernetes, Monitoring",Internship,Technology,On-site,30-Jun-26
+221,Cloud Engineer,Accenture,Gurugram,0.0,5.7,"Load Balancing, CI/CD, Docker, DNS, Linux, Terraform",Internship,Consulting,On-site,28-Jun-26
+222,Full Stack Developer,Microsoft,Gurugram,2.0,12.1,"Redux, Firebase, JavaScript, Tailwind CSS, REST API",Full-Time,Technology,On-site,24-Jun-26
+223,Data Scientist,Amazon,Bangalore,0.0,5.4,"Azure, Power BI, PyTorch, Data Mining, Machine Learning, Python, Statistics",Internship,E-Commerce,On-site,15-Jun-26
+224,AI Engineer,Meta,Pune,0.5,7.5,"Linux, RAG, LangChain, Git, Docker, PyTorch, MLOps",Internship,Technology,On-site,09-Jun-26
+225,Software Engineer,Amazon,Kolkata,0.5,4.5,"Microservices, CI/CD, Data Structures, Git, MySQL, Python",Internship,E-Commerce,On-site,19-Jun-26
+226,Data Engineer,Flipkart,Mumbai,2.0,12.4,"Data Pipelines, Snowflake, Data Cleaning, Docker, Hadoop, Excel",Full-Time,E-Commerce,Remote,29-Jun-26
+227,Cloud Engineer,TCS,Mumbai,0.0,15.3,"Kubernetes, Networking, Infrastructure as Code, GCP, Load Balancing, Terraform, Jenkins",Full-Time,IT Services,Remote,17-Jun-26
+228,Software Engineer,Infosys,Mumbai,0.5,5.5,"Git, Docker, Microservices, Testing, Java",Internship,IT Services,On-site,07-Jun-26
+229,Data Engineer,Microsoft,Kolkata,1.0,14.4,"ETL, Linux, Excel, Communication, Business Intelligence, Tableau, MySQL, Power BI",Full-Time,Technology,Remote,28-Jun-26
+230,Data Scientist,Flipkart,Pune,0.0,13.0,"Tableau, Feature Engineering, Machine Learning, A/B Testing, Pandas, Statistics, Deep Learning, Data Visualization",Full-Time,E-Commerce,On-site,23-Jun-26
+231,Full Stack Developer,Microsoft,Bangalore,2.0,9.4,"Next.js, Tailwind CSS, JWT, Express.js, HTML",Full-Time,Technology,On-site,05-Jun-26
+232,Data Scientist,Flipkart,Chennai,0.0,12.9,"Statistics, Deep Learning, NumPy, Tableau, A/B Testing, PyTorch, Azure",Full-Time,E-Commerce,On-site,21-Jun-26
+233,Data Analyst,Amazon,Hyderabad,2.0,6.8,"MySQL, Google Sheets, Dashboarding, A/B Testing, SQL, Business Intelligence, Data Cleaning",Full-Time,E-Commerce,On-site,08-Jun-26
+234,Backend Developer,Netflix,Gurugram,0.0,4.6,"Spring Boot, API Design, MySQL, MongoDB, Microservices",Internship,Entertainment,On-site,14-Jun-26
+235,Java Developer,Infosys,Chennai,0.0,9.2,"Java, MySQL, Redis, Docker, CI/CD, REST API",Full-Time,IT Services,Remote,19-Jun-26
+236,Full Stack Developer,Infosys,Noida,0.5,5.3,"Redux, Node.js, Express.js, Git, CI/CD",Internship,IT Services,On-site,19-Jun-26
+237,Data Engineer,Accenture,Gurugram,0.0,14.3,"Big Data, Linux, NoSQL, Forecasting, Kafka, Excel, Azure, Data Warehousing",Full-Time,Consulting,On-site,04-Jun-26
+238,Full Stack Developer,Flipkart,Kolkata,1.0,10.9,"SQL, Bootstrap, HTML, Redux, Node.js, Next.js, JavaScript, CSS",Full-Time,E-Commerce,On-site,23-Jun-26
+239,ML Engineer,Adobe,Bangalore,0.0,14.2,"MLOps, Spark, Docker, Git, AWS, Kafka, CI/CD, Python",Full-Time,Technology,Remote,20-Jun-26
+240,Java Developer,TCS,Kolkata,0.0,10.0,"System Design, AWS, Maven, JPA, Spring Boot, Git",Full-Time,IT Services,On-site,25-Jun-26
+241,Backend Developer,Amazon,Hyderabad,0.5,4.2,"Spring Security, PostgreSQL, JUnit, Redis, CI/CD, MongoDB",Internship,E-Commerce,On-site,01-Jun-26
+242,ML Engineer,Microsoft,Chennai,0.0,5.0,"CI/CD, Azure, MLOps, Model Deployment, Computer Vision, Kafka, Feature Engineering",Internship,Technology,Remote,01-Jun-26
+243,AI Engineer,Meta,Mumbai,0.5,6.2,"LangChain, Deep Learning, Transformers, PyTorch, Kubernetes, TensorFlow",Internship,Technology,On-site,02-Jun-26
+244,Full Stack Developer,Microsoft,Gurugram,0.0,5.2,"REST API, JWT, SQL, Bootstrap, TypeScript",Internship,Technology,Remote,29-Jun-26
+245,AI Engineer,Google,Hyderabad,0.5,6.5,"AWS, NLP, PyTorch, Python, MLOps, Kubernetes, Computer Vision",Internship,Technology,On-site,04-Jun-26
+246,Backend Developer,Microsoft,Hyderabad,0.5,3.6,"AWS, MongoDB, REST API, Spring Security, MySQL",Internship,Technology,Remote,15-Jun-26
+247,Full Stack Developer,Flipkart,Hyderabad,0.0,11.7,"Next.js, CI/CD, Redux, JavaScript, Bootstrap",Full-Time,E-Commerce,On-site,18-Jun-26
+248,Full Stack Developer,Microsoft,Mumbai,0.5,5.7,"JWT, Docker, Firebase, HTML, CSS",Internship,Technology,On-site,29-Jun-26
+249,Cloud Engineer,Google,Kolkata,0.0,12.0,"Git, Jenkins, AWS, Serverless, Networking, Linux, Cost Optimization, Infrastructure as Code",Full-Time,Technology,Remote,30-Jun-26
+250,Backend Developer,Google,Delhi,0.0,10.9,"Git, Microservices, Linux, JUnit, Redis, System Design",Full-Time,Technology,Remote,29-Jun-26
+251,Backend Developer,Microsoft,Bangalore,1.0,9.0,"Linux, Spring Boot, MySQL, Git, Kafka",Full-Time,Technology,On-site,12-Jun-26
+252,AI Engineer,Microsoft,Gurugram,1.0,19.6,"Linux, NLP, Vector Databases, MLOps, Python, Git",Full-Time,Technology,On-site,21-Jun-26
+253,AI Engineer,Google,Chennai,0.5,7.1,"TensorFlow, RAG, Linux, Transformers, Kubernetes, Python, Prompt Engineering, Machine Learning",Internship,Technology,On-site,19-Jun-26
+254,Full Stack Developer,Microsoft,Hyderabad,2.0,12.9,"AWS, Git, Tailwind CSS, Redux, CI/CD, Node.js",Full-Time,Technology,On-site,10-Jun-26
+255,Software Engineer,Google,Bangalore,2.0,6.7,"REST API, SQL, Python, Algorithms, AWS, MySQL, Java, Debugging",Full-Time,Technology,On-site,20-Jun-26
+256,Full Stack Developer,Flipkart,Pune,1.0,10.5,"HTML, Express.js, React, TypeScript, AWS, Tailwind CSS, Firebase, CI/CD",Full-Time,E-Commerce,On-site,19-Jun-26
+257,Java Developer,Infosys,Gurugram,1.0,7.4,"System Design, Design Patterns, Git, OOP, AWS, JUnit",Full-Time,IT Services,On-site,16-Jun-26
+258,Full Stack Developer,Google,Chennai,0.0,4.2,"REST API, MongoDB, Node.js, Next.js, JWT, Tailwind CSS, Git",Internship,Technology,On-site,13-Jun-26
+259,Backend Developer,Flipkart,Pune,0.0,6.5,"Docker, REST API, Spring Boot, MongoDB, AWS, MySQL, JUnit",Full-Time,E-Commerce,Remote,09-Jun-26
+260,Data Engineer,Amazon,Chennai,0.5,3.8,"ETL, Data Cleaning, NoSQL, AWS, Data Warehousing, Statistics, Google Sheets",Internship,E-Commerce,Remote,18-Jun-26
+261,Software Engineer,Microsoft,Delhi,0.5,4.7,"Testing, Debugging, Python, Microservices, REST API",Internship,Technology,Remote,13-Jun-26
+262,Data Scientist,Meta,Chennai,1.0,11.1,"TensorFlow, Tableau, Python, Feature Engineering, SQL",Full-Time,Technology,On-site,27-Jun-26
+263,Backend Developer,Netflix,Bangalore,0.0,13.7,"PostgreSQL, Kafka, Caching, Git, Java, Nginx, Docker",Full-Time,Entertainment,On-site,18-Jun-26
+264,ML Engineer,Adobe,Noida,0.0,6.6,"Machine Learning, Computer Vision, Model Deployment, Spark, TensorFlow, Kafka, Deep Learning",Internship,Technology,On-site,03-Jun-26
+265,AI Engineer,Google,Mumbai,1.0,15.9,"Computer Vision, Git, Transformers, Docker, PyTorch, RAG",Full-Time,Technology,Remote,29-Jun-26
+266,Java Developer,Deloitte,Chennai,0.5,4.0,"Redis, MySQL, OOP, Maven, Docker, Kafka, Linux",Internship,Consulting,Remote,23-Jun-26
+267,Java Developer,Infosys,Noida,0.0,4.9,"Redis, REST API, Java, Kafka, Design Patterns, CI/CD, AWS, MySQL",Internship,IT Services,Remote,28-Jun-26
+268,Data Engineer,Amazon,Hyderabad,2.0,10.6,"Kafka, Redshift, Business Intelligence, Airflow, Google Sheets, Hadoop",Full-Time,E-Commerce,On-site,09-Jun-26
+269,Backend Developer,Microsoft,Noida,2.0,8.9,"Microservices, Linux, System Design, Git, API Design, Docker, Caching",Full-Time,Technology,On-site,14-Jun-26
+270,Full Stack Developer,Google,Bangalore,0.0,10.5,"JWT, Tailwind CSS, Docker, Firebase, REST API, React, SQL, JavaScript",Full-Time,Technology,On-site,28-Jun-26
+271,Cloud Engineer,Google,Bangalore,0.5,4.8,"Jenkins, AWS, Cost Optimization, Git, Cloud Security, Monitoring, Kubernetes",Internship,Technology,On-site,23-Jun-26
+272,Java Developer,Accenture,Chennai,2.0,9.5,"Kafka, Maven, OOP, Hibernate, Linux, AWS, JPA",Full-Time,Consulting,On-site,15-Jun-26
+273,Software Engineer,Infosys,Chennai,0.5,5.4,"AWS, OOP, Testing, Problem Solving, C++",Internship,IT Services,Remote,05-Jun-26
+274,Data Engineer,Microsoft,Bangalore,1.0,12.7,"Reporting, Pandas, NoSQL, Gitics, Big Data, Data Mining, Business Intelligence, Statistics",Full-Time,Technology,Remote,15-Jun-26
+275,AI Engineer,Meta,Kolkata,2.0,12.9,"Computer Vision, RAG, Vector Databases, MLOps, LLMs, LangChain, Linux",Full-Time,Technology,On-site,14-Jun-26
+276,Cloud Engineer,TCS,Pune,0.0,14.2,"Bash, DNS, Load Balancing, Kubernetes, Git, Networking, Cloud Security",Full-Time,IT Services,Remote,27-Jun-26
+277,AI Engineer,Microsoft,Mumbai,1.0,14.7,"LLMs, Model Deployment, RAG, Prompt Engineering, TensorFlow",Full-Time,Technology,Remote,12-Jun-26
+278,Cloud Engineer,Accenture,Kolkata,0.5,4.1,"DNS, Infrastructure as Code, Monitoring, Azure, AWS, CI/CD, Python, Linux",Internship,Consulting,Remote,10-Jun-26
+279,Backend Developer,Netflix,Chennai,0.0,5.9,"Java, Caching, Linux, Git, Kafka, CI/CD, PostgreSQL",Internship,Entertainment,On-site,15-Jun-26
+280,Java Developer,Deloitte,Noida,0.5,4.8,"Microservices, Spring Boot, Git, System Design, Design Patterns, Docker",Internship,Consulting,Remote,27-Jun-26
+281,Data Analyst,Accenture,Pune,0.0,3.3,"Data Mining, Business Intelligence, Excel, SQL, Pandas",Internship,Consulting,On-site,15-Jun-26
+282,ML Engineer,Google,Pune,0.5,4.4,"Python, Git, SQL, Linux, PyTorch, MLOps",Internship,Technology,Remote,22-Jun-26
+283,Cloud Engineer,Microsoft,Noida,0.0,4.9,"Azure, CI/CD, AWS, Infrastructure as Code, Python, Cloud Security",Internship,Technology,On-site,29-Jun-26
+284,Data Scientist,Amazon,Bangalore,0.5,4.7,"Feature Engineering, Pandas, Scikit-Learn, SQL, TensorFlow, Azure, PyTorch, Statistics",Internship,E-Commerce,On-site,17-Jun-26
+285,Data Scientist,Flipkart,Chennai,0.5,4.3,"Deep Learning, Big Data, Jupyter, AWS, Scikit-Learn, Data Mining, Machine Learning",Internship,E-Commerce,Remote,04-Jun-26
+286,Full Stack Developer,Infosys,Gurugram,0.5,3.9,"Bootstrap, MongoDB, HTML, JavaScript, Docker",Internship,IT Services,Remote,12-Jun-26
+287,AI Engineer,Adobe,Mumbai,1.0,12.9,"Prompt Engineering, RAG, Deep Learning, Machine Learning, MLOps, Computer Vision",Full-Time,Technology,On-site,05-Jun-26
+288,Data Analyst,Cognizant,Pune,1.0,8.3,"Reporting, Tableau, A/B Testing, Pandas, Problem Solving, Excel",Full-Time,IT Services,On-site,05-Jun-26
+289,Data Scientist,Meta,Chennai,2.0,9.4,"Power BI, TensorFlow, Jupyter, Tableau, Python, Big Data, AWS, Scikit-Learn",Full-Time,Technology,On-site,18-Jun-26
+290,Data Scientist,Google,Kolkata,0.5,4.3,"Python, PyTorch, Data Mining, Statistics, TensorFlow, Tableau, Power BI",Internship,Technology,Remote,07-Jun-26
+291,Software Engineer,Amazon,Noida,0.5,4.4,"OOP, Python, C++, REST API, Git, Docker",Internship,E-Commerce,Remote,26-Jun-26
+292,Full Stack Developer,Amazon,Pune,0.5,4.7,"Firebase, Git, Redux, JavaScript, JWT, TypeScript",Internship,E-Commerce,Remote,10-Jun-26
+293,AI Engineer,Google,Mumbai,0.0,7.4,"Model Deployment, PyTorch, NLP, Vector Databases, TensorFlow, Docker",Internship,Technology,Remote,02-Jun-26
+294,Backend Developer,Google,Pune,0.0,6.4,"MongoDB, Java, Spring Security, MySQL, REST API, Spring Boot, JUnit",Full-Time,Technology,On-site,19-Jun-26
+295,AI Engineer,Google,Gurugram,1.0,16.2,"Docker, Transformers, LangChain, Kubernetes, Deep Learning, RAG, Machine Learning, Computer Vision",Full-Time,Technology,On-site,03-Jun-26
+296,Backend Developer,Google,Noida,0.0,12.1,"AWS, JUnit, Redis, CI/CD, Microservices, Kafka, Git",Full-Time,Technology,On-site,04-Jun-26
+297,Cloud Engineer,Google,Mumbai,0.0,6.7,"Networking, Bash, Terraform, Python, Azure",Internship,Technology,Remote,10-Jun-26
+298,Data Engineer,Microsoft,Mumbai,0.0,3.4,"Data Cleaning, Communication, Tableau, Reporting, Data Warehousing, Spark, Azure",Internship,Technology,Remote,17-Jun-26
+299,Data Engineer,Flipkart,Pune,2.0,13.9,"Data Mining, Problem Solving, Data Cleaning, Google Sheets, Excel, MySQL, AWS, ETL",Full-Time,E-Commerce,Remote,02-Jun-26
+300,Data Engineer,Accenture,Mumbai,0.5,5.3,"Data Warehousing, Linux, Redshift, Data Cleaning, Spark, Hadoop, Data Mining, Reporting",Internship,Consulting,Remote,16-Jun-26
+301,Backend Developer,Netflix,Gurugram,0.5,3.3,"Redis, Kafka, Git, REST API, Nginx, Caching, JUnit",Internship,Entertainment,Remote,01-Jun-26
+302,Full Stack Developer,Flipkart,Hyderabad,2.0,7.6,"Tailwind CSS, TypeScript, Git, Next.js, SQL, JavaScript, Redux",Full-Time,E-Commerce,Remote,08-Jun-26
+303,Full Stack Developer,Microsoft,Gurugram,0.5,3.5,"MongoDB, Next.js, Express.js, Firebase, Redux, Docker, Tailwind CSS, React",Internship,Technology,On-site,15-Jun-26
+304,Data Engineer,Accenture,Pune,0.5,4.4,"NoSQL, Hadoop, Big Data, Problem Solving, SQL",Internship,Consulting,On-site,06-Jun-26
+305,Java Developer,Deloitte,Kolkata,0.0,11.0,"OOP, Design Patterns, System Design, Hibernate, Maven",Full-Time,Consulting,On-site,28-Jun-26
+306,Full Stack Developer,Google,Kolkata,2.0,6.5,"Tailwind CSS, TypeScript, Redux, CSS, Firebase, Express.js",Full-Time,Technology,On-site,24-Jun-26
+307,Java Developer,Deloitte,Gurugram,1.0,8.2,"Design Patterns, AWS, System Design, Maven, MySQL, Linux",Full-Time,Consulting,Remote,07-Jun-26
+308,ML Engineer,Adobe,Mumbai,0.5,7.0,"NLP, CI/CD, SQL, Computer Vision, Docker, Feature Engineering, TensorFlow, Linux",Internship,Technology,On-site,29-Jun-26
+309,ML Engineer,Microsoft,Mumbai,2.0,17.6,"Feature Engineering, NLP, Python, PyTorch, Git, Kubernetes",Full-Time,Technology,Remote,16-Jun-26
+310,Data Scientist,Amazon,Hyderabad,1.0,12.9,"Feature Engineering, Pandas, TensorFlow, Azure, Big Data, PyTorch, NumPy",Full-Time,E-Commerce,Remote,12-Jun-26
+311,Cloud Engineer,TCS,Chennai,0.0,8.2,"Azure, Kubernetes, Git, DNS, Cloud Security",Full-Time,IT Services,Remote,02-Jun-26
+312,Data Scientist,Meta,Chennai,1.0,14.5,"Tableau, PyTorch, Data Mining, A/B Testing, NumPy, Python, TensorFlow",Full-Time,Technology,On-site,27-Jun-26
+313,ML Engineer,Amazon,Mumbai,1.0,16.7,"Python, MLOps, SQL, Machine Learning, Feature Engineering, Docker, Git, Deep Learning",Full-Time,E-Commerce,Remote,29-Jun-26
+314,Full Stack Developer,Flipkart,Pune,0.5,5.4,"CI/CD, TypeScript, Tailwind CSS, Docker, Redux, Bootstrap, React",Internship,E-Commerce,Remote,22-Jun-26
+315,Software Engineer,Cognizant,Mumbai,0.0,4.5,"Linux, Python, Git, REST API, Testing, SQL, Algorithms, MySQL",Internship,IT Services,Remote,11-Jun-26
+316,Java Developer,Deloitte,Bangalore,2.0,8.9,"REST API, Git, Docker, JUnit, Spring Security, Kafka",Full-Time,Consulting,Remote,15-Jun-26
+317,ML Engineer,Amazon,Noida,0.5,4.9,"SQL, PyTorch, Linux, Machine Learning, Computer Vision",Internship,E-Commerce,Remote,12-Jun-26
+318,Data Engineer,Google,Chennai,0.5,4.1,"Linux, Docker, ETL, AWS, Big Data",Internship,Technology,On-site,23-Jun-26
+319,Cloud Engineer,Amazon,Kolkata,0.0,4.6,"Python, Terraform, Monitoring, Docker, Load Balancing, Azure",Internship,E-Commerce,On-site,18-Jun-26
+320,Data Analyst,Deloitte,Pune,0.5,2.2,"Problem Solving, MySQL, Data Cleaning, Pandas, SQL",Internship,Consulting,Remote,16-Jun-26
+321,Backend Developer,Google,Mumbai,0.5,3.6,"CI/CD, Java, Spring Boot, System Design, API Design, Docker, Caching, MySQL",Internship,Technology,On-site,14-Jun-26
+322,AI Engineer,Google,Gurugram,0.5,7.6,"AWS, NLP, Docker, Computer Vision, MLOps",Internship,Technology,On-site,23-Jun-26
+323,Java Developer,Deloitte,Kolkata,0.5,4.1,"MySQL, Git, Redis, Design Patterns, Kafka",Internship,Consulting,On-site,15-Jun-26
+324,Cloud Engineer,Accenture,Kolkata,0.0,14.1,"AWS, Kubernetes, Cloud Security, Bash, Python",Full-Time,Consulting,On-site,04-Jun-26
+325,Data Scientist,Google,Chennai,0.0,14.1,"Jupyter, Feature Engineering, Data Mining, Big Data, Pandas",Full-Time,Technology,Remote,07-Jun-26
+326,Cloud Engineer,Google,Pune,1.0,10.6,"Linux, Kubernetes, AWS, DNS, Azure, Load Balancing, Git",Full-Time,Technology,On-site,19-Jun-26
+327,AI Engineer,Microsoft,Kolkata,0.0,5.8,"Docker, LangChain, Model Deployment, Kubernetes, Machine Learning",Internship,Technology,On-site,04-Jun-26
+328,Data Engineer,Google,Delhi,0.5,5.0,"ETL, Data Mining, Google Sheets, Statistics, Linux",Internship,Technology,Remote,12-Jun-26
+329,Backend Developer,Flipkart,Kolkata,0.5,4.4,"Git, API Design, Java, Docker, CI/CD, Caching, REST API, System Design",Internship,E-Commerce,Remote,25-Jun-26
+330,Cloud Engineer,Google,Delhi,0.0,9.9,"Terraform, GCP, CI/CD, Git, Kubernetes, Load Balancing, Networking",Full-Time,Technology,Remote,19-Jun-26
+331,Cloud Engineer,TCS,Mumbai,2.0,10.4,"Infrastructure as Code, Networking, Cloud Security, Git, CI/CD, Cost Optimization",Full-Time,IT Services,On-site,28-Jun-26
+332,Data Analyst,Deloitte,Hyderabad,0.5,2.6,"Data Visualization, R Programming, SQL, Problem Solving, A/B Testing",Internship,Consulting,Remote,30-Jun-26
+333,Cloud Engineer,Google,Chennai,0.5,6.2,"Serverless, Kubernetes, CI/CD, Monitoring, Load Balancing, Networking, Terraform",Internship,Technology,On-site,14-Jun-26
+334,AI Engineer,Adobe,Noida,2.0,19.0,"Transformers, Prompt Engineering, Python, AWS, Computer Vision, Vector Databases, NLP, Kubernetes",Full-Time,Technology,Remote,18-Jun-26
+335,Data Analyst,Accenture,Chennai,0.0,4.8,"Pandas, Forecasting, SQL, Business Intelligence, Data Visualization, Reporting, R Programming",Full-Time,Consulting,On-site,02-Jun-26
+336,Data Analyst,Accenture,Mumbai,0.0,3.3,"ETL, Data Visualization, Python, Pandas, Power BI, A/B Testing",Internship,Consulting,On-site,16-Jun-26
+337,Java Developer,Cognizant,Bangalore,0.0,11.9,"System Design, Maven, OOP, Git, Docker, CI/CD",Full-Time,IT Services,On-site,19-Jun-26
+338,Full Stack Developer,Google,Bangalore,0.0,4.1,"Next.js, JWT, React, SQL, JavaScript",Internship,Technology,Remote,13-Jun-26
+339,Java Developer,Accenture,Gurugram,0.5,3.8,"System Design, REST API, Hibernate, Spring Boot, Git, Spring Security, Maven",Internship,Consulting,Remote,03-Jun-26
+340,Software Engineer,Amazon,Pune,0.5,4.0,"JavaScript, Data Structures, Debugging, Microservices, REST API, OOP, Java",Internship,E-Commerce,On-site,13-Jun-26
+341,Cloud Engineer,Microsoft,Mumbai,0.0,16.5,"Networking, Cloud Security, Serverless, Monitoring, Bash, GCP",Full-Time,Technology,On-site,14-Jun-26
+342,AI Engineer,Meta,Pune,0.0,16.7,"Transformers, RAG, Git, Model Deployment, LangChain",Full-Time,Technology,Remote,25-Jun-26
+343,Java Developer,Deloitte,Delhi,1.0,10.4,"Spring Boot, MySQL, Hibernate, Git, Microservices, Kafka, REST API",Full-Time,Consulting,Remote,02-Jun-26
+344,Cloud Engineer,TCS,Bangalore,2.0,12.3,"Load Balancing, Git, DNS, Cost Optimization, Infrastructure as Code, Kubernetes, Serverless",Full-Time,IT Services,Remote,30-Jun-26
+345,AI Engineer,Adobe,Noida,1.0,16.6,"Python, Git, Model Deployment, NLP, AWS",Full-Time,Technology,On-site,20-Jun-26
+346,Backend Developer,Amazon,Chennai,0.0,5.2,"API Design, Spring Boot, Linux, AWS, Redis, Microservices, Java",Internship,E-Commerce,Remote,22-Jun-26
+347,Data Analyst,Accenture,Gurugram,0.0,9.3,"Data Mining, Python, SQL, Google Sheets, R Programming, Statistics, ETL, Tableau",Full-Time,Consulting,Remote,13-Jun-26
+348,ML Engineer,Amazon,Chennai,0.5,4.7,"Git, Machine Learning, Computer Vision, NLP, Linux, Model Deployment",Internship,E-Commerce,On-site,06-Jun-26
+349,Cloud Engineer,TCS,Delhi,1.0,13.6,"Cost Optimization, Cloud Security, Azure, Infrastructure as Code, Git, DNS",Full-Time,IT Services,Remote,20-Jun-26
+350,Java Developer,Accenture,Noida,0.5,3.2,"Spring Security, AWS, Linux, REST API, Spring Boot",Internship,Consulting,On-site,01-Jun-26
+351,ML Engineer,Google,Kolkata,0.0,13.5,"Model Deployment, Kubernetes, PyTorch, Linux, Machine Learning, Feature Engineering, MLOps, TensorFlow",Full-Time,Technology,Remote,23-Jun-26
+352,Data Engineer,Accenture,Gurugram,1.0,11.3,"Data Visualization, Data Mining, Problem Solving, Statistics, Hadoop, AWS",Full-Time,Consulting,On-site,05-Jun-26
+353,Data Analyst,Flipkart,Bangalore,0.0,3.7,"Power BI, Dashboarding, SQL, A/B Testing, Forecasting",Internship,E-Commerce,On-site,24-Jun-26
+354,AI Engineer,Adobe,Pune,0.0,7.5,"Kubernetes, Linux, Prompt Engineering, Transformers, NLP, Machine Learning, Docker",Internship,Technology,On-site,05-Jun-26
+355,Cloud Engineer,Amazon,Gurugram,0.0,10.9,"Serverless, Bash, AWS, Python, Jenkins, Git, Kubernetes, Load Balancing",Full-Time,E-Commerce,On-site,29-Jun-26
+356,AI Engineer,Microsoft,Mumbai,0.0,7.0,"Transformers, Computer Vision, Deep Learning, Prompt Engineering, Vector Databases, Git, AWS, Python",Internship,Technology,On-site,16-Jun-26
+357,Full Stack Developer,Infosys,Mumbai,0.5,5.8,"Node.js, MongoDB, CSS, Git, Next.js",Internship,IT Services,Remote,14-Jun-26
+358,Cloud Engineer,Microsoft,Kolkata,2.0,12.7,"Networking, Monitoring, DNS, AWS, CI/CD, Azure",Full-Time,Technology,Remote,07-Jun-26
+359,Software Engineer,Microsoft,Gurugram,0.0,6.0,"Algorithms, Microservices, Python, Linux, System Design",Internship,Technology,Remote,18-Jun-26
+360,Full Stack Developer,Infosys,Mumbai,0.0,11.5,"Tailwind CSS, SQL, Redux, CSS, JavaScript",Full-Time,IT Services,Remote,19-Jun-26
+361,ML Engineer,Microsoft,Chennai,0.0,4.8,"Python, Machine Learning, Docker, SQL, AWS, TensorFlow, Computer Vision, Kafka",Internship,Technology,On-site,27-Jun-26
+362,Software Engineer,Cognizant,Hyderabad,2.0,7.3,"OOP, Linux, REST API, Microservices, MySQL, Algorithms",Full-Time,IT Services,On-site,05-Jun-26
+363,Cloud Engineer,TCS,Bangalore,0.0,5.1,"Serverless, Docker, Azure, Linux, Kubernetes, Terraform, Bash, GCP",Internship,IT Services,Remote,13-Jun-26
+364,Full Stack Developer,Amazon,Noida,1.0,12.7,"Bootstrap, AWS, MongoDB, Express.js, JavaScript, Node.js, SQL, Docker",Full-Time,E-Commerce,On-site,16-Jun-26
+365,Data Analyst,Flipkart,Kolkata,0.5,2.4,"Communication, Data Visualization, Python, Tableau, Pandas, SQL",Internship,E-Commerce,On-site,17-Jun-26
+366,Java Developer,Infosys,Gurugram,1.0,7.4,"AWS, Kafka, CI/CD, OOP, MySQL",Full-Time,IT Services,On-site,18-Jun-26
+367,Software Engineer,TCS,Kolkata,2.0,6.2,"Data Structures, Java, Microservices, C++, System Design",Full-Time,IT Services,Remote,03-Jun-26
+368,AI Engineer,Adobe,Hyderabad,0.5,6.3,"TensorFlow, Model Deployment, Machine Learning, Deep Learning, Computer Vision, Prompt Engineering, PyTorch, Git",Internship,Technology,On-site,14-Jun-26
+369,Backend Developer,Netflix,Gurugram,1.0,12.1,"PostgreSQL, MySQL, MongoDB, REST API, Kafka, Caching",Full-Time,Entertainment,On-site,17-Jun-26
+370,Full Stack Developer,Amazon,Delhi,0.5,4.1,"Express.js, SQL, TypeScript, Tailwind CSS, Next.js",Internship,E-Commerce,On-site,28-Jun-26
+371,Data Scientist,Amazon,Noida,1.0,12.3,"AWS, Python, SQL, Feature Engineering, Data Visualization, Big Data",Full-Time,E-Commerce,Remote,07-Jun-26
+372,Software Engineer,Amazon,Bangalore,0.5,5.9,"Python, JavaScript, Debugging, Java, Git, System Design, Data Structures, MySQL",Internship,E-Commerce,Remote,10-Jun-26
+373,ML Engineer,Amazon,Noida,1.0,16.1,"PyTorch, Feature Engineering, Kubernetes, Model Deployment, Computer Vision",Full-Time,E-Commerce,Remote,15-Jun-26
+374,ML Engineer,Meta,Bangalore,0.0,14.1,"Docker, Machine Learning, MLOps, Python, Computer Vision, CI/CD, AWS",Full-Time,Technology,On-site,05-Jun-26
+375,Java Developer,Cognizant,Kolkata,0.0,4.3,"REST API, Design Patterns, Hibernate, Docker, OOP, System Design",Internship,IT Services,On-site,13-Jun-26
+376,Software Engineer,Cognizant,Bangalore,0.5,5.8,"CI/CD, Testing, Git, SQL, Data Structures, JavaScript",Internship,IT Services,On-site,24-Jun-26
+377,Java Developer,Infosys,Delhi,0.0,3.8,"OOP, AWS, CI/CD, Spring Boot, Spring Security, System Design, Design Patterns",Internship,IT Services,On-site,28-Jun-26
+378,Cloud Engineer,Accenture,Mumbai,0.5,4.7,"Load Balancing, Docker, Jenkins, CI/CD, Bash, Python",Internship,Consulting,On-site,30-Jun-26
+379,Cloud Engineer,Amazon,Chennai,0.5,6.7,"Bash, CI/CD, Git, Terraform, GCP, Monitoring, Infrastructure as Code",Internship,E-Commerce,Remote,07-Jun-26
+380,Data Engineer,Accenture,Chennai,0.5,4.8,"Kafka, Python, Gitics, Airflow, NoSQL, Data Mining",Internship,Consulting,Remote,28-Jun-26
+381,Full Stack Developer,Flipkart,Gurugram,0.0,3.4,"REST API, Docker, TypeScript, MongoDB, SQL",Internship,E-Commerce,Remote,11-Jun-26
+382,Data Engineer,Flipkart,Mumbai,1.0,8.3,"Tableau, Power BI, Gitics, Spark, Google Sheets, Problem Solving, Data Visualization",Full-Time,E-Commerce,Remote,07-Jun-26
+383,Data Scientist,Flipkart,Delhi,0.0,4.7,"Feature Engineering, Data Mining, Pandas, Statistics, Data Visualization, NumPy",Internship,E-Commerce,On-site,14-Jun-26
+384,Data Scientist,Microsoft,Pune,0.5,4.4,"TensorFlow, Machine Learning, Scikit-Learn, Jupyter, Azure, Statistics",Internship,Technology,Remote,12-Jun-26
+385,Full Stack Developer,Microsoft,Noida,2.0,11.0,"Express.js, Next.js, TypeScript, MongoDB, CSS",Full-Time,Technology,Remote,06-Jun-26
+386,Data Scientist,Amazon,Gurugram,0.5,4.2,"TensorFlow, Python, Statistics, Scikit-Learn, Power BI, Big Data, NumPy, AWS",Internship,E-Commerce,On-site,28-Jun-26
+387,Data Analyst,Accenture,Kolkata,1.0,7.6,"Statistics, Business Intelligence, SQL, Reporting, Python, Data Cleaning",Full-Time,Consulting,Remote,22-Jun-26
+388,Data Scientist,Meta,Hyderabad,2.0,8.0,"Pandas, Machine Learning, Big Data, Data Visualization, NumPy",Full-Time,Technology,Remote,25-Jun-26
+389,Java Developer,Accenture,Hyderabad,0.0,4.6,"Spring Boot, Docker, OOP, System Design, JUnit, Git",Internship,Consulting,Remote,14-Jun-26
+390,AI Engineer,Google,Kolkata,0.0,15.7,"Git, Deep Learning, PyTorch, Model Deployment, Kubernetes",Full-Time,Technology,On-site,05-Jun-26
+391,Software Engineer,TCS,Hyderabad,1.0,6.9,"Docker, Linux, MySQL, System Design, Debugging",Full-Time,IT Services,Remote,28-Jun-26
+392,Backend Developer,Netflix,Kolkata,0.5,4.9,"Git, CI/CD, Nginx, Microservices, Linux, MongoDB",Internship,Entertainment,Remote,24-Jun-26
+393,Data Scientist,Microsoft,Hyderabad,0.5,4.7,"AWS, Azure, Scikit-Learn, Statistics, Python, Data Visualization, Jupyter, Machine Learning",Internship,Technology,Remote,16-Jun-26
+394,Data Scientist,Meta,Mumbai,0.5,5.8,"Pandas, Python, Data Visualization, AWS, Machine Learning, Statistics",Internship,Technology,Remote,03-Jun-26
+395,Data Scientist,Flipkart,Noida,0.5,5.4,"Data Visualization, Tableau, TensorFlow, Pandas, PyTorch, Scikit-Learn",Internship,E-Commerce,On-site,07-Jun-26
+396,Java Developer,TCS,Gurugram,0.0,11.1,"MySQL, REST API, OOP, JUnit, Hibernate, System Design, Spring Security",Full-Time,IT Services,On-site,06-Jun-26
+397,Data Scientist,Microsoft,Pune,2.0,11.3,"A/B Testing, NumPy, Jupyter, SQL, Feature Engineering, Pandas, Power BI",Full-Time,Technology,Remote,08-Jun-26
+398,Data Analyst,Accenture,Mumbai,0.5,4.0,"Data Visualization, Problem Solving, Reporting, A/B Testing, Business Intelligence, Communication, Data Cleaning",Internship,Consulting,On-site,18-Jun-26
+399,Full Stack Developer,Microsoft,Chennai,2.0,10.5,"Redux, Firebase, Docker, JavaScript, HTML",Full-Time,Technology,On-site,15-Jun-26
+400,Data Analyst,Amazon,Kolkata,0.0,3.5,"Google Sheets, MySQL, Data Cleaning, Python, A/B Testing",Internship,E-Commerce,On-site,19-Jun-26
+401,Software Engineer,Cognizant,Pune,0.5,4.2,"JavaScript, Debugging, CI/CD, Docker, Problem Solving, Python, MySQL, Linux",Internship,IT Services,Remote,09-Jun-26
+402,Software Engineer,Infosys,Delhi,0.5,5.1,"Algorithms, Problem Solving, Microservices, Java, CI/CD, MySQL, REST API",Internship,IT Services,Remote,01-Jun-26
+403,Backend Developer,Flipkart,Delhi,1.0,12.9,"MongoDB, REST API, Microservices, Kafka, AWS, Nginx",Full-Time,E-Commerce,On-site,23-Jun-26
+404,Backend Developer,Microsoft,Hyderabad,1.0,6.5,"CI/CD, AWS, Microservices, API Design, MongoDB, Linux, System Design",Full-Time,Technology,On-site,09-Jun-26
+405,Cloud Engineer,Microsoft,Noida,0.0,6.7,"AWS, Python, Linux, Monitoring, Cost Optimization",Internship,Technology,Remote,19-Jun-26
+406,Data Analyst,Deloitte,Noida,1.0,7.4,"ETL, R Programming, Pandas, Data Visualization, SQL, Python, Statistics",Full-Time,Consulting,On-site,18-Jun-26
+407,AI Engineer,Adobe,Delhi,0.0,19.1,"Prompt Engineering, NLP, Docker, Machine Learning, Deep Learning, Python, Model Deployment",Full-Time,Technology,On-site,04-Jun-26
+408,Software Engineer,Microsoft,Pune,0.0,3.5,"CI/CD, REST API, JavaScript, Docker, Linux, Problem Solving, OOP, Git",Internship,Technology,On-site,10-Jun-26
+409,Data Scientist,Flipkart,Mumbai,0.0,13.0,"Data Mining, SQL, Scikit-Learn, Azure, AWS, Data Visualization, Jupyter",Full-Time,E-Commerce,On-site,20-Jun-26
+410,Data Engineer,Accenture,Gurugram,0.5,5.6,"Reporting, Azure, Google Sheets, Power BI, SQL, Excel, AWS",Internship,Consulting,On-site,18-Jun-26
+411,Cloud Engineer,Amazon,Pune,0.0,6.8,"Docker, DNS, Load Balancing, Monitoring, CI/CD, Cost Optimization",Internship,E-Commerce,On-site,18-Jun-26
+412,AI Engineer,Meta,Kolkata,0.0,5.6,"Python, NLP, Model Deployment, Deep Learning, Vector Databases, Prompt Engineering",Internship,Technology,On-site,05-Jun-26
+413,ML Engineer,Meta,Delhi,1.0,15.4,"MLOps, Computer Vision, Feature Engineering, Kubernetes, AWS, Kafka, Linux",Full-Time,Technology,Remote,25-Jun-26
+414,Java Developer,Deloitte,Bangalore,0.0,3.8,"Spring Boot, Kafka, JPA, Microservices, Design Patterns, CI/CD, Maven, System Design",Internship,Consulting,Remote,13-Jun-26
+415,AI Engineer,Meta,Kolkata,1.0,16.2,"Transformers, LangChain, Deep Learning, NLP, Docker",Full-Time,Technology,Remote,01-Jun-26
+416,Data Scientist,Microsoft,Noida,1.0,14.5,"NumPy, SQL, Machine Learning, Scikit-Learn, Python, Tableau",Full-Time,Technology,Remote,07-Jun-26
+417,AI Engineer,Adobe,Mumbai,0.5,6.4,"PyTorch, Computer Vision, Docker, Model Deployment, Kubernetes, Deep Learning",Internship,Technology,On-site,16-Jun-26
+418,AI Engineer,Microsoft,Delhi,0.5,6.0,"NLP, MLOps, Linux, LLMs, Computer Vision, Python, AWS, PyTorch",Internship,Technology,Remote,02-Jun-26
+419,Data Analyst,Amazon,Kolkata,1.0,8.9,"Python, Pandas, Forecasting, Problem Solving, Data Visualization, A/B Testing",Full-Time,E-Commerce,Remote,25-Jun-26
+420,Java Developer,Infosys,Hyderabad,1.0,6.3,"AWS, Spring Security, Git, JPA, Java, Design Patterns",Full-Time,IT Services,On-site,07-Jun-26
+421,Backend Developer,Google,Delhi,2.0,13.2,"PostgreSQL, MySQL, Spring Security, MongoDB, Caching, API Design, Redis",Full-Time,Technology,Remote,13-Jun-26
+422,Cloud Engineer,Google,Delhi,0.5,6.9,"GCP, Cloud Security, Load Balancing, Bash, Networking, DNS, Git, Infrastructure as Code",Internship,Technology,On-site,20-Jun-26
+423,Data Engineer,Amazon,Chennai,2.0,13.7,"Spark, Communication, Data Pipelines, Hadoop, Data Cleaning, Linux",Full-Time,E-Commerce,Remote,20-Jun-26
+424,Data Scientist,Amazon,Gurugram,0.0,5.5,"Python, AWS, Feature Engineering, Power BI, Big Data",Internship,E-Commerce,Remote,18-Jun-26
+425,Backend Developer,Amazon,Mumbai,2.0,9.4,"Microservices, AWS, REST API, Docker, API Design",Full-Time,E-Commerce,On-site,29-Jun-26
+426,AI Engineer,Google,Pune,1.0,17.1,"Linux, Model Deployment, TensorFlow, Machine Learning, Kubernetes",Full-Time,Technology,Remote,27-Jun-26
+427,Java Developer,Infosys,Delhi,0.0,7.1,"Docker, Spring Boot, JUnit, CI/CD, Redis, Git",Full-Time,IT Services,On-site,12-Jun-26
+428,Cloud Engineer,Microsoft,Bangalore,0.0,4.5,"Infrastructure as Code, Terraform, Azure, Python, CI/CD",Internship,Technology,On-site,04-Jun-26
+429,Data Scientist,Flipkart,Chennai,0.5,4.7,"PyTorch, Scikit-Learn, Statistics, Machine Learning, Jupyter, A/B Testing, NumPy, Data Mining",Internship,E-Commerce,Remote,26-Jun-26
+430,Java Developer,TCS,Gurugram,2.0,10.1,"Docker, JUnit, MySQL, AWS, REST API, Kafka, JPA",Full-Time,IT Services,Remote,10-Jun-26
+431,Data Scientist,Google,Gurugram,2.0,14.4,"Feature Engineering, PyTorch, SQL, Deep Learning, Big Data, NumPy, Scikit-Learn, Data Visualization",Full-Time,Technology,On-site,15-Jun-26
+432,Data Analyst,Cognizant,Gurugram,2.0,8.3,"Python, A/B Testing, ETL, Business Intelligence, Power BI, Tableau, Forecasting, Excel",Full-Time,IT Services,On-site,21-Jun-26
+433,Java Developer,Infosys,Pune,1.0,9.6,"JPA, JUnit, Microservices, OOP, Hibernate, MySQL, Spring Security, Linux",Full-Time,IT Services,Remote,19-Jun-26
+434,Data Scientist,Microsoft,Pune,1.0,11.2,"NumPy, Azure, Statistics, PyTorch, Data Visualization, A/B Testing",Full-Time,Technology,Remote,27-Jun-26
+435,AI Engineer,Adobe,Pune,0.0,6.6,"RAG, Vector Databases, Linux, LangChain, Python, LLMs",Internship,Technology,Remote,17-Jun-26
+436,Software Engineer,TCS,Gurugram,0.0,3.4,"AWS, C++, Python, REST API, MySQL",Internship,IT Services,On-site,21-Jun-26
+437,ML Engineer,Adobe,Delhi,0.0,4.1,"Model Deployment, AWS, CI/CD, Machine Learning, Linux, Deep Learning, Docker, Kafka",Internship,Technology,Remote,03-Jun-26
+438,Data Analyst,Amazon,Bangalore,0.5,2.4,"Tableau, Power BI, Data Mining, Excel, Pandas, MySQL, Google Sheets",Internship,E-Commerce,Remote,22-Jun-26
+439,AI Engineer,Adobe,Pune,0.0,7.6,"AWS, NLP, Machine Learning, Docker, MLOps, PyTorch, Deep Learning, Model Deployment",Internship,Technology,On-site,22-Jun-26
+440,Data Engineer,Microsoft,Kolkata,0.5,5.1,"NoSQL, Airflow, Forecasting, Tableau, Linux, Statistics, MySQL",Internship,Technology,On-site,20-Jun-26
+441,ML Engineer,Meta,Noida,2.0,13.4,"Docker, PyTorch, CI/CD, Feature Engineering, Kubernetes, Git",Full-Time,Technology,Remote,26-Jun-26
+442,Cloud Engineer,Accenture,Kolkata,2.0,16.3,"Jenkins, Load Balancing, Kubernetes, Bash, Git, Networking, DNS, Infrastructure as Code",Full-Time,Consulting,On-site,26-Jun-26
+443,Data Engineer,Amazon,Noida,2.0,8.6,"Business Intelligence, Snowflake, Power BI, Azure, Google Sheets, Forecasting, ETL, Dashboarding",Full-Time,E-Commerce,On-site,11-Jun-26
+444,Backend Developer,Netflix,Kolkata,0.0,4.1,"Linux, API Design, PostgreSQL, Spring Boot, Microservices, JUnit",Internship,Entertainment,On-site,18-Jun-26
+445,Java Developer,Cognizant,Chennai,1.0,8.7,"REST API, Design Patterns, Microservices, Kafka, Linux, JPA, CI/CD",Full-Time,IT Services,Remote,29-Jun-26
+446,Software Engineer,Microsoft,Gurugram,2.0,9.2,"REST API, Docker, Problem Solving, CI/CD, SQL",Full-Time,Technology,On-site,01-Jun-26
+447,Software Engineer,Google,Hyderabad,0.5,5.0,"OOP, Data Structures, Git, MySQL, Docker, Algorithms, CI/CD, Problem Solving",Internship,Technology,Remote,23-Jun-26
+448,Software Engineer,TCS,Mumbai,2.0,13.9,"OOP, Docker, Java, C++, AWS, MySQL",Full-Time,IT Services,On-site,19-Jun-26
+449,Software Engineer,TCS,Noida,0.5,3.8,"Docker, Python, REST API, Git, C++, Java, Testing",Internship,IT Services,On-site,01-Jun-26
+450,Java Developer,Infosys,Bangalore,0.0,3.6,"Design Patterns, JUnit, OOP, Maven, Git, AWS, Spring Security",Internship,IT Services,On-site,03-Jun-26
+451,Cloud Engineer,Google,Pune,0.5,5.1,"Docker, Load Balancing, Bash, Linux, Kubernetes, Infrastructure as Code, Azure",Internship,Technology,On-site,02-Jun-26
+452,Data Engineer,Flipkart,Pune,0.0,12.9,"Docker, PySpark, Gitics, Excel, AWS, A/B Testing",Full-Time,E-Commerce,Remote,21-Jun-26
+453,Data Engineer,Accenture,Mumbai,0.0,9.4,"PySpark, Data Mining, Problem Solving, ETL, Communication, Azure",Full-Time,Consulting,On-site,16-Jun-26
+454,ML Engineer,Adobe,Pune,0.0,17.0,"Model Deployment, TensorFlow, Kubernetes, MLOps, CI/CD, Computer Vision, AWS, Docker",Full-Time,Technology,On-site,26-Jun-26
+455,Data Analyst,Flipkart,Hyderabad,0.5,2.7,"ETL, Power BI, Google Sheets, Python, SQL",Internship,E-Commerce,Remote,22-Jun-26
+456,Data Analyst,Amazon,Chennai,1.0,4.5,"Forecasting, Google Sheets, Python, R Programming, Excel, Pandas, MySQL, Tableau",Full-Time,E-Commerce,On-site,06-Jun-26
+457,Data Engineer,Google,Pune,2.0,11.0,"Google Sheets, MySQL, PySpark, Data Warehousing, Azure, Kafka, Dashboarding",Full-Time,Technology,Remote,16-Jun-26
+458,Java Developer,Cognizant,Chennai,1.0,8.6,"Redis, CI/CD, Docker, System Design, AWS, Git, Kafka",Full-Time,IT Services,Remote,28-Jun-26
+459,Data Scientist,Flipkart,Gurugram,0.0,10.5,"Scikit-Learn, Python, AWS, Machine Learning, Data Visualization, Jupyter",Full-Time,E-Commerce,Remote,22-Jun-26
+460,Data Analyst,Accenture,Hyderabad,0.0,3.8,"Dashboarding, Data Cleaning, Data Visualization, Power BI, Business Intelligence, ETL, Data Mining, Tableau",Internship,Consulting,Remote,16-Jun-26
+461,Full Stack Developer,Flipkart,Noida,0.0,8.8,"CSS, MongoDB, Tailwind CSS, JavaScript, Express.js, Redux, Next.js",Full-Time,E-Commerce,Remote,05-Jun-26
+462,Cloud Engineer,Google,Bangalore,1.0,13.3,"Bash, Terraform, Infrastructure as Code, GCP, Load Balancing",Full-Time,Technology,On-site,04-Jun-26
+463,Data Scientist,Flipkart,Delhi,0.0,5.6,"Machine Learning, SQL, Statistics, Azure, Power BI",Internship,E-Commerce,On-site,18-Jun-26
+464,Backend Developer,Google,Bangalore,0.0,13.0,"Docker, CI/CD, Kafka, Redis, Spring Security, System Design, AWS, Linux",Full-Time,Technology,Remote,04-Jun-26
+465,ML Engineer,Microsoft,Gurugram,0.0,6.4,"Kafka, AWS, Deep Learning, Git, Docker, Azure, SQL, CI/CD",Internship,Technology,Remote,11-Jun-26
+466,Data Engineer,Amazon,Hyderabad,0.5,4.0,"Business Intelligence, Kafka, Docker, Hadoop, ETL, Power BI, Excel, Snowflake",Internship,E-Commerce,Remote,18-Jun-26
+467,ML Engineer,Adobe,Hyderabad,0.0,11.7,"Deep Learning, Model Deployment, Docker, Linux, Kafka, Kubernetes, NLP",Full-Time,Technology,On-site,30-Jun-26
+468,Java Developer,Accenture,Kolkata,0.5,4.9,"CI/CD, AWS, OOP, Maven, System Design, Spring Security, Linux, Git",Internship,Consulting,On-site,25-Jun-26
+469,AI Engineer,Google,Gurugram,0.0,5.0,"Computer Vision, TensorFlow, AWS, Machine Learning, Model Deployment, Git",Internship,Technology,Remote,09-Jun-26
+470,Data Engineer,Flipkart,Noida,0.0,8.7,"Data Warehousing, Azure, ETL, CI/CD, Gitics, Big Data, Data Pipelines",Full-Time,E-Commerce,On-site,06-Jun-26
+471,Full Stack Developer,Infosys,Pune,1.0,13.4,"SQL, Node.js, Firebase, Docker, Tailwind CSS",Full-Time,IT Services,On-site,19-Jun-26
+472,Software Engineer,Cognizant,Mumbai,0.5,3.3,"Testing, System Design, JavaScript, Algorithms, Linux, Problem Solving",Internship,IT Services,Remote,06-Jun-26
+473,Cloud Engineer,Microsoft,Hyderabad,2.0,8.0,"CI/CD, Infrastructure as Code, Cost Optimization, Bash, Jenkins, Monitoring, Git, AWS",Full-Time,Technology,Remote,16-Jun-26
+474,Data Analyst,Cognizant,Chennai,0.5,2.2,"A/B Testing, Google Sheets, Excel, Communication, Dashboarding, Data Cleaning, Statistics",Internship,IT Services,On-site,01-Jun-26
+475,AI Engineer,Microsoft,Chennai,0.0,14.5,"Linux, Computer Vision, LLMs, MLOps, Kubernetes",Full-Time,Technology,On-site,24-Jun-26
+476,ML Engineer,Amazon,Noida,0.0,15.2,"AWS, CI/CD, Model Deployment, SQL, Azure, Kafka, Git, Machine Learning",Full-Time,E-Commerce,Remote,17-Jun-26
+477,Cloud Engineer,Accenture,Hyderabad,0.0,4.5,"Infrastructure as Code, Jenkins, Monitoring, GCP, Bash, CI/CD, Serverless, AWS",Internship,Consulting,Remote,03-Jun-26
+478,Backend Developer,Flipkart,Noida,0.0,3.8,"System Design, Microservices, Nginx, REST API, Git, API Design",Internship,E-Commerce,Remote,09-Jun-26
+479,Full Stack Developer,Infosys,Noida,0.0,4.5,"MongoDB, CSS, Bootstrap, SQL, React, CI/CD",Internship,IT Services,On-site,30-Jun-26
+480,Data Scientist,Microsoft,Hyderabad,0.5,4.8,"Big Data, Scikit-Learn, Data Visualization, Feature Engineering, Deep Learning, SQL, A/B Testing",Internship,Technology,On-site,06-Jun-26
+481,Data Engineer,Accenture,Hyderabad,0.0,8.3,"Python, Tableau, Dashboarding, Google Sheets, A/B Testing, Hadoop, PySpark",Full-Time,Consulting,Remote,23-Jun-26
+482,Java Developer,TCS,Gurugram,0.0,7.7,"Design Patterns, REST API, Java, Git, AWS",Full-Time,IT Services,On-site,08-Jun-26
+483,Backend Developer,Google,Gurugram,1.0,6.5,"AWS, Spring Boot, Java, API Design, MongoDB, Microservices",Full-Time,Technology,On-site,23-Jun-26
+484,Software Engineer,TCS,Bangalore,0.5,3.7,"SQL, MySQL, JavaScript, Linux, OOP, Docker",Internship,IT Services,On-site,16-Jun-26
+485,Data Scientist,Amazon,Pune,1.0,14.2,"SQL, NumPy, Deep Learning, Azure, Tableau, PyTorch, Scikit-Learn",Full-Time,E-Commerce,On-site,14-Jun-26
+486,Cloud Engineer,Accenture,Noida,1.0,11.2,"AWS, DNS, Azure, Linux, Cloud Security, Jenkins",Full-Time,Consulting,Remote,13-Jun-26
+487,Java Developer,Deloitte,Delhi,0.0,4.2,"MySQL, Java, REST API, AWS, Maven, Linux, Microservices",Internship,Consulting,On-site,21-Jun-26
+488,ML Engineer,Meta,Noida,0.0,11.7,"Machine Learning, Computer Vision, Kubernetes, Git, MLOps, Kafka, Linux, TensorFlow",Full-Time,Technology,On-site,23-Jun-26
+489,ML Engineer,Microsoft,Gurugram,2.0,14.3,"Python, Deep Learning, Kubernetes, Model Deployment, Git, NLP",Full-Time,Technology,On-site,12-Jun-26
+490,Software Engineer,Infosys,Mumbai,0.0,14.9,"Git, Algorithms, SQL, Microservices, AWS, MySQL, OOP",Full-Time,IT Services,Remote,11-Jun-26
+491,Java Developer,Deloitte,Bangalore,0.0,4.1,"AWS, Spring Boot, MySQL, Microservices, OOP, System Design, JPA, Design Patterns",Internship,Consulting,Remote,11-Jun-26
+492,ML Engineer,Google,Chennai,0.0,6.0,"NLP, Feature Engineering, MLOps, Python, Docker, Computer Vision, PyTorch",Internship,Technology,Remote,11-Jun-26
+493,AI Engineer,Adobe,Hyderabad,0.5,5.4,"MLOps, Vector Databases, Linux, NLP, Kubernetes, LLMs, RAG, Git",Internship,Technology,Remote,01-Jun-26
+494,Data Scientist,Amazon,Mumbai,0.5,5.5,"Pandas, Data Visualization, PyTorch, Tableau, SQL, Scikit-Learn",Internship,E-Commerce,On-site,10-Jun-26
+495,AI Engineer,Google,Gurugram,0.0,15.3,"LLMs, LangChain, Machine Learning, Model Deployment, MLOps, Git, Transformers",Full-Time,Technology,On-site,23-Jun-26
+496,Full Stack Developer,Google,Gurugram,1.0,7.2,"CI/CD, Docker, SQL, AWS, TypeScript, Bootstrap, JavaScript",Full-Time,Technology,Remote,14-Jun-26
+497,Full Stack Developer,Flipkart,Chennai,0.0,5.7,"Redux, React, Firebase, Docker, JWT",Internship,E-Commerce,Remote,07-Jun-26
+498,Backend Developer,Google,Hyderabad,0.5,3.2,"Nginx, Redis, AWS, MySQL, REST API",Internship,Technology,On-site,29-Jun-26
+499,ML Engineer,Adobe,Gurugram,0.0,14.4,"MLOps, Feature Engineering, Machine Learning, Deep Learning, SQL, Python",Full-Time,Technology,On-site,29-Jun-26
+500,Full Stack Developer,Google,Chennai,1.0,10.3,"CI/CD, CSS, JWT, Firebase, JavaScript",Full-Time,Technology,Remote,30-Jun-26
