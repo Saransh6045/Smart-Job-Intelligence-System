@@ -1,0 +1,501 @@
+job_id,title,salary,experience,skills,employment_type,work_mode,posted_date,company_id,location_id
+1,Data Scientist,14.0,1.0,"Python, Power BI, SQL, AWS, Machine Learning, Jupyter",Full-Time,On-site,2026-06-14,1,1
+2,Java Developer,13.0,1.0,"Java, Springboot, Git, Docker, Rest API",Full-Time,Remote,2026-06-11,2,2
+3,AI Engineer,5.0,0.0,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, NLP, Computer Vision",Internship,On-site,2026-06-15,3,2
+4,Backend Developer,15.0,2.0,"Java, Springboot, RestAPI, Microservices, MongoDB",Full-Time,On-site,2026-06-09,4,3
+5,Data Analyst,10.0,1.0,"Excel, Power BI, Tableau, SQL, Data Visualization, Business Intelligence,",Full-Time,Remote,2026-06-15,5,4
+6,Cloud Engineer,6.0,0.0,"AWS, Azure, Docker, CI/CD, Networking, Linux",Full-Time,On-site,2026-06-20,6,5
+7,Full Stack Developer,16.0,2.0,"JavaScript, React, Node.js, Express.js, HTML, CSS, MongoDB",Full-Time,On-site,2026-06-17,7,6
+8,Software Engineer,3.5,0.0,"Java, Python, C++, Data Structures and Algorithms, OOP, Rest API, SQL",Internship,Remote,2026-06-15,8,3
+9,ML Engineer,11.0,1.0,"Python, Machine Learning, SQL, MlOps, PyTorch, TensorFlow, Pandas, NLP",Full-Time,Remote,2026-06-20,9,7
+10,Java Developer,13.0,1.0,"Java, SpringBoot, RestAPI, Maven, OOP, Git",Full-Time,On-site,2026-06-21,10,6
+11,Data Analyst,5.0,0.0,"Excel, Reporting, Power BI, Statistics, Tableau, Dasdboarding",Internship,On-site,2026-06-18,11,4
+12,Backend Developer,9.0,1.0,"Java, RestAPI, Redis, Docker, MongoDB, Kafka",Full-Time,On-site,2026-06-22,12,7
+13,Data Scientist,15.0,1.0,"Machine Learning, Python, Pandas, Scikit-Learn, TensorFlow, SQL",Full-Time,On-site,2026-06-22,4,6
+14,Full Stack Developer,14.0,1.0,"JavaScript, TypeScript, React, Node.js, Tailwind CSS, HTML, Rest API, MongoDB",Full-Time,Remote,2026-06-23,2,4
+15,Cloud Engineer,6.0,0.0,"AWS, Azure, GCP, Terraform, Bash, Cloud Security, Linux,",Internship,On-site,2026-06-16,1,1
+16,Data Engineer,8.0,0.0,"Statistics, Power BI, Big Data, Spark, Hadoop, AirFlow, Data Mining, A/B Testing",Full-Time,On-site,2026-06-18,8,8
+17,Java Developer,13.0,1.0,"Java, SpringBoot, Redis, Linux, Rest API, System Design",Full-Time,Remote,2026-06-19,7,4
+18,Software Engineer,7.0,1.0,"Java, C++, MySQL, Problem Solving, Data Stuctures and Algorithms, System Design",Full-Time,On-site,2026-06-11,6,3
+19,Full Stack Developer,10.0,0.0,"Java Script, React, Node.js, Rest API, Bootstrap, Firebase, MongoDB, JWT",Full-Time,On-site,2026-06-12,5,1
+20,AI Engineer,18.0,1.0,"Python, Machine Learning, Deep Learning, NLP, LLM, LangChain, RAG, MLOps",Full-Time,Remote,2026-06-15,1,4
+21,ML Engineer,8.0,0.0,"Python, Machine Learning, SQL, AWS, Feature Engineering, Model Deployment, Linux",Full-Time,On-site,2026-06-11,12,8
+22,Data Analyst,7.5,0.0,"Excel, R Programming, Power BI, Tableau, Data Visualization, Business Intelligence, Forecasting",Full-Time,On-site,2026-06-15,10,9
+23,Data Engineer,6.0,0.0,"Data Mining, A/B Testing, SQL, Hadoop, Big Data, Google Sheets",Internship,Remote,2026-06-13,11,9
+24,Data Scientist,9.0,1.0,"Python, Machine Learning, Feature Engineering, SQL, TensorFlow, Sci-kit Learn, Jupyter",Full-Time,Remote,2026-06-08,6,6
+25,Backend Developer,10.0,0.0,"Java, Springboot, Redis, API Design, Caching, Microservices",Full-Time,On-site,2026-06-07,7,3
+26,Cloud Engineer,7.0,0.0,"AWS, CI/CD, Networking, Cloud Security, Monitoring, Terraform",Full-Time,On-site,2026-06-01,9,5
+27,Software Engineer,6.5,0.0,"Data Structures and Algorithms, Java, C++, OOP, JavaScript, Problem Solving",Full-Time,Remote,2026-06-05,3,2
+28,AI Engineer,12.0,0.5,"Machine Learning, Deep Learning, Transformers, LLM, Prompt Engineering, Docker, AWS, NLP",Full-Time,On-site,2026-06-08,8,8
+29,Java Developer,6.0,0.0,"Java, Springboot, Redis, Spring Security,",Internship,On-site,2026-06-11,5,8
+30,Backend Developer,10.0,0.0,"Java, RestAPI, API Design, AWS, Docker, Linux, Git, MongoDB",Full-Time,On-site,2026-06-12,1,9
+31,Data Analyst,5.0,0.0,"Excel, R Programming, Data Visualization, Power BI, Communication, Statistics",Full-Time,Remote,2026-06-10,9,5
+32,ML Engineer,13.0,0.0,"Python, Machine Learning, SQL, ML Pipeline, Model Deployment, Feature Engineering, Python Libraries",Full-Time,On-site,2026-06-15,7,3
+33,Cloud Engineer,12.5,0.0,"Azure, GCP, Docker, Jenkins, Bash, Cloud Security, Kubernetes, CI/CD",Full-Time,Remote,2026-06-16,2,6
+34,Data Scientist,11.0,0.0,"Python, SQL, Machine Learning, TensorFlow, PyTorch, Big Data, Data Mining, A/B Testing",Full-Time,Remote,2026-06-15,11,4
+35,Data Engineer,10.0,0.0,"Data Warehousing, Data Pipelines, Redshift, Big Data, Data Visualization",Full-Time,On-site,2026-06-21,2,1
+36,Software Engineer,10.0,1.0,"Java, C++, Testing, Debugging, Data Structures and Algroithms, Problem Solving, OOP, Docker",Full-Time,On-site,2026-06-26,4,7
+37,Full Stack Developer,3.5,0.0,"HTML, CSS, Javascript, Node.js, Express.js, Firebase, JWT, Rest API, MongoDB",Internship,Remote,2026-06-25,3,2
+38,AI Engineer,12.0,0.0,"Python, Machine Learning, Deep Learning, NLP, LLM, LangChain, Vector Databases",Full-Time,On-site,2026-06-06,10,8
+39,Backend Developer,4.0,0.0,"Java, Springboot, MySQL, System Design, Nginx, Caching, Junit, MongoDB",Internship,Remote,2026-06-04,6,4
+40,Java Developer,5.0,0.0,"Java, Springboot, OOP, Design Patterns, Maven, Rest API, Redis",Full-Time,Remote,2026-06-03,9,9
+41,Data Engineer,10.5,0.0,"SQL, Spark, Snowflake, Linux, Data Mining, Gitics, Statistics,",Full-Time,Remote,2026-06-19,5,3
+42,Software Engineer,11.0,0.0,"Java, Python, C++, Rest API, Linux, Data Structures and Algorithms, System Design, Testing, Debugging",Full-Time,On-site,2026-06-14,7,6
+43,Data Analyst,7.0,0.0,"Excel, Communication, Reporting, Business Intelligence, ETL, Dashboarding",Full-Time,On-site,2026-06-30,4,6
+44,Data Scientist,4.0,0.0,"Python, SQL, Machine Learning, Data Visualization, Python Libraries",Internship,Remote,2026-06-14,8,8
+45,AI Engineer,10.0,0.0,"Python, Deep Learning, Machine Learning, Transformers, Model Deployment, LangChain, RAG, LLM, NLP",Full-Time,On-site,2026-06-20,6,5
+46,ML Engineer,18.0,1.0,"Python, SQL, Machine Learning, Deep Learning, Computer Vision, Spark, Kafka, CI/CD, Azure",Full-Time,On-site,2026-06-06,2,1
+47,Full Stack Developer,6.0,0.0,"JavaScript, React, Node.js, Bootstrap, Next.js, Tailwind CSS, MongoDB, JWT, Redux",Full-Time,On-site,2026-06-18,9,4
+48,Cloud Engineer,16.0,1.0,"CI/CD, Networking, Bash, DNS, Jenkins, GCP, Kubernetes, Terraform",Full-Time,Remote,2026-06-26,10,7
+49,Data Engineer,7.0,0.0,"Data Mining, Data Pipelines, Data Cleaning, Data Warehousing, PySpark, Redshift, Snowflake, Airflow",Full-Time,On-site,2026-06-25,3,9
+50,ML Engineer,6.0,0.0,"MLOps, NLP, Deep Learning, LLM, Feature Engineering, Python, TensorFlow, PyTorch",Internship,On-site,2026-06-04,5,2
+51,Data Analyst,3.4,0.0,"Problem Solving, Power BI, Forecasting, Communication, Tableau, Python",Internship,On-site,2026-06-15,3,8
+52,Data Analyst,3.5,0.5,"Forecasting, Communication, Python, MySQL, ETL, A/B Testing, Problem Solving",Internship,On-site,2026-06-30,4,3
+53,Java Developer,4.1,0.5,"REST API, Microservices, OOP, System Design, Kafka, AWS, Hibernate",Internship,Remote,2026-06-24,8,7
+54,Data Scientist,10.3,0.0,"A/B Testing, Python, AWS, SQL, Power BI",Full-Time,On-site,2026-06-20,7,4
+55,Java Developer,10.6,0.0,"Spring Boot, Redis, Git, MySQL, JUnit",Full-Time,On-site,2026-06-20,3,10
+56,Software Engineer,3.6,0.5,"Git, Java, System Design, Problem Solving, AWS, OOP, C++, Data Structures",Internship,Remote,2026-06-04,6,8
+57,Java Developer,3.6,0.5,"Design Patterns, Spring Security, Linux, Redis, Spring Boot",Internship,On-site,2026-06-10,9,7
+58,AI Engineer,6.6,0.5,"Deep Learning, Docker, Kubernetes, MLOps, TensorFlow, RAG, Linux",Internship,On-site,2026-06-02,11,10
+59,Software Engineer,3.5,0.5,"Problem Solving, Debugging, Docker, Java, System Design, JavaScript",Internship,On-site,2026-06-30,6,8
+60,Data Engineer,5.3,0.0,"Data Cleaning, ETL, Big Data, Airflow, ETL, Python, Business Intelligence, AWS",Internship,On-site,2026-06-05,2,9
+61,ML Engineer,13.0,2.0,"Python, Feature Engineering, Kafka, PyTorch, Model Deployment",Full-Time,On-site,2026-06-27,1,10
+62,Java Developer,5.8,1.0,"Docker, Maven, Java, Design Patterns, MySQL, JUnit, Spring Security",Full-Time,Remote,2026-06-21,12,8
+63,AI Engineer,5.8,0.5,"Deep Learning, NLP, MLOps, Vector Databases, Prompt Engineering, Computer Vision, TensorFlow, Python",Internship,Remote,2026-06-09,10,1
+64,Backend Developer,5.2,0.0,"Git, Java, MongoDB, System Design, JUnit, CI/CD, REST API, Caching",Internship,On-site,2026-06-17,5,5
+65,Java Developer,5.8,0.0,"Linux, AWS, CI/CD, Docker, Git, Redis, MySQL, Kafka",Full-Time,Remote,2026-06-28,6,2
+66,Data Analyst,3.7,0.5,"Data Visualization, Data Cleaning, Reporting, Problem Solving, Data Mining, Python",Internship,On-site,2026-06-14,12,7
+67,Backend Developer,10.6,2.0,"MySQL, Microservices, Spring Security, PostgreSQL, Nginx",Full-Time,On-site,2026-06-22,7,3
+68,AI Engineer,17.0,2.0,"Model Deployment, Deep Learning, NLP, Transformers, MLOps, Git, LangChain",Full-Time,On-site,2026-06-10,10,4
+69,Data Scientist,5.5,0.0,"A/B Testing, Power BI, Jupyter, AWS, SQL",Internship,Remote,2026-06-03,2,4
+70,Data Scientist,10.9,0.0,"AWS, A/B Testing, Data Visualization, Python, NumPy",Full-Time,Remote,2026-06-06,2,9
+71,ML Engineer,5.0,0.5,"MLOps, PyTorch, CI/CD, Python, Git",Internship,Remote,2026-06-19,1,5
+72,Data Scientist,10.2,0.0,"PyTorch, Deep Learning, SQL, A/B Testing, Statistics, Python, NumPy, Big Data",Full-Time,On-site,2026-06-03,2,8
+73,AI Engineer,5.9,0.5,"Git, Kubernetes, Docker, LLMs, Deep Learning, Prompt Engineering, Machine Learning",Internship,Remote,2026-06-28,7,3
+74,Software Engineer,3.1,0.5,"MySQL, CI/CD, Problem Solving, Testing, Git",Internship,Remote,2026-06-27,7,8
+75,Cloud Engineer,9.1,1.0,"Git, Docker, Cloud Security, CI/CD, Bash",Full-Time,Remote,2026-06-22,1,4
+76,Java Developer,9.9,0.0,"Maven, JPA, MySQL, Spring Security, Git, REST API",Full-Time,Remote,2026-06-30,3,3
+77,Software Engineer,4.9,0.5,"JavaScript, Git, Java, AWS, REST API, Data Structures, Debugging, Linux",Internship,Remote,2026-06-23,9,1
+78,Cloud Engineer,6.1,0.0,"Monitoring, Jenkins, Bash, Load Balancing, AWS, Python, Docker",Internship,Remote,2026-06-28,9,2
+79,Data Scientist,4.4,0.0,"Data Visualization, Scikit-Learn, PyTorch, Power BI, Data Mining, Python, NumPy",Internship,Remote,2026-06-04,2,2
+80,ML Engineer,5.4,0.5,"MLOps, Deep Learning, AWS, Model Deployment, Linux",Internship,Remote,2026-06-21,11,5
+81,Backend Developer,5.1,0.5,"Spring Security, Spring Boot, PostgreSQL, Kafka, Nginx",Internship,Remote,2026-06-21,2,1
+82,Cloud Engineer,15.9,2.0,"Git, Jenkins, Load Balancing, AWS, Bash, Linux, Networking",Full-Time,On-site,2026-06-03,7,10
+83,Cloud Engineer,5.6,0.0,"CI/CD, AWS, Cost Optimization, GCP, Terraform, Infrastructure as Code, Git",Internship,On-site,2026-06-17,9,10
+84,ML Engineer,14.6,1.0,"Azure, PyTorch, Kafka, Spark, AWS",Full-Time,On-site,2026-06-29,7,2
+85,AI Engineer,6.3,0.0,"Linux, Git, LLMs, Transformers, Machine Learning, Docker, RAG, TensorFlow",Internship,On-site,2026-06-16,10,7
+86,Backend Developer,6.4,0.0,"Redis, CI/CD, Caching, Spring Security, Java, REST API",Full-Time,Remote,2026-06-15,7,3
+87,Data Analyst,9.0,2.0,"Tableau, Power BI, Dashboarding, Pandas, R Programming, A/B Testing, Python, Excel",Full-Time,On-site,2026-06-05,12,4
+88,ML Engineer,17.7,2.0,"Linux, Spark, Python, Docker, Model Deployment, NLP, Machine Learning, Kafka",Full-Time,Remote,2026-06-15,10,7
+89,Java Developer,4.9,0.0,"REST API, Spring Security, JUnit, Microservices, OOP, Design Patterns, Hibernate, Git",Internship,On-site,2026-06-07,9,4
+90,Software Engineer,5.2,0.0,"REST API, Docker, C++, Microservices, Linux, Debugging",Internship,On-site,2026-06-30,1,4
+91,AI Engineer,12.0,2.0,"AWS, Deep Learning, Python, Machine Learning, TensorFlow, Docker, Model Deployment, Vector Databases",Full-Time,Remote,2026-06-28,2,5
+92,Software Engineer,5.0,0.5,"Git, Linux, CI/CD, Microservices, JavaScript, Data Structures",Internship,On-site,2026-06-19,6,4
+93,AI Engineer,5.0,0.0,"Computer Vision, RAG, Vector Databases, MLOps, Docker, Model Deployment, PyTorch, Machine Learning",Internship,Remote,2026-06-03,7,9
+94,AI Engineer,14.7,2.0,"Transformers, Computer Vision, LLMs, Vector Databases, Kubernetes",Full-Time,On-site,2026-06-13,7,2
+95,Data Scientist,10.6,0.0,"SQL, Big Data, A/B Testing, Data Visualization, Data Mining, Tableau, Pandas",Full-Time,Remote,2026-06-08,10,2
+96,Full Stack Developer,12.8,2.0,"CSS, Firebase, CI/CD, JWT, REST API, Git",Full-Time,On-site,2026-06-29,2,1
+97,Cloud Engineer,14.1,2.0,"Serverless, CI/CD, Jenkins, Monitoring, Linux, Terraform",Full-Time,Remote,2026-06-03,7,5
+98,Data Scientist,11.4,1.0,"Tableau, SQL, A/B Testing, PyTorch, NumPy, Pandas, Feature Engineering, Scikit-Learn",Full-Time,Remote,2026-06-18,2,7
+99,Data Engineer,4.1,0.5,"NoSQL, CI/CD, Kafka, PySpark, Data Visualization, Dashboarding",Internship,On-site,2026-06-05,7,1
+100,ML Engineer,4.7,0.5,"Kubernetes, TensorFlow, Model Deployment, Kafka, PyTorch, Feature Engineering, Azure",Internship,Remote,2026-06-12,7,10
+101,ML Engineer,16.3,0.0,"Feature Engineering, CI/CD, Deep Learning, AWS, TensorFlow",Full-Time,Remote,2026-06-23,1,2
+102,Full Stack Developer,5.3,0.5,"HTML, Firebase, MongoDB, REST API, Redux, AWS, JWT",Internship,On-site,2026-06-02,4,9
+103,Cloud Engineer,4.9,0.5,"AWS, Cloud Security, Python, DNS, Terraform, Load Balancing, Jenkins",Internship,Remote,2026-06-20,9,3
+104,Software Engineer,7.1,2.0,"Algorithms, C++, System Design, AWS, REST API, Data Structures",Full-Time,On-site,2026-06-23,1,9
+105,ML Engineer,4.3,0.5,"TensorFlow, Machine Learning, SQL, Kubernetes, PyTorch, MLOps, Feature Engineering",Internship,On-site,2026-06-13,7,5
+106,Data Scientist,5.3,0.0,"PyTorch, AWS, Deep Learning, Data Mining, Data Visualization",Internship,On-site,2026-06-21,1,8
+107,Data Scientist,14.1,1.0,"Scikit-Learn, A/B Testing, Big Data, Tableau, NumPy",Full-Time,Remote,2026-06-21,1,4
+108,Full Stack Developer,11.7,1.0,"AWS, Tailwind CSS, JavaScript, CSS, JWT",Full-Time,Remote,2026-06-09,1,3
+109,Java Developer,3.7,0.0,"Git, Java, Spring Boot, Linux, Design Patterns",Internship,On-site,2026-06-30,8,7
+110,Backend Developer,4.5,0.5,"Caching, Docker, PostgreSQL, MySQL, Microservices, Kafka",Internship,On-site,2026-06-12,2,9
+111,Java Developer,11.3,2.0,"JUnit, JPA, AWS, Redis, Maven, OOP, Linux",Full-Time,On-site,2026-06-11,8,1
+112,Software Engineer,6.3,2.0,"Testing, OOP, Data Structures, SQL, Debugging, MySQL",Full-Time,Remote,2026-06-02,1,2
+113,Data Analyst,3.9,0.5,"Data Mining, Communication, R Programming, MySQL, Pandas",Internship,Remote,2026-06-13,8,2
+114,Backend Developer,3.3,0.0,"MySQL, AWS, API Design, Linux, Java, System Design",Internship,Remote,2026-06-22,4,5
+115,ML Engineer,13.3,0.0,"PyTorch, Deep Learning, Kafka, Model Deployment, CI/CD, Azure, NLP, Linux",Full-Time,On-site,2026-06-15,2,7
+116,Data Scientist,5.9,0.5,"Python, TensorFlow, Jupyter, Feature Engineering, SQL, PyTorch, Statistics",Internship,Remote,2026-06-15,1,1
+117,Java Developer,3.2,0.0,"Linux, Spring Boot, MySQL, Java, System Design, Microservices",Internship,On-site,2026-06-10,9,7
+118,Full Stack Developer,8.7,0.0,"Bootstrap, MongoDB, Tailwind CSS, REST API, Express.js, Git",Full-Time,Remote,2026-06-11,4,1
+119,AI Engineer,18.0,0.0,"Deep Learning, AWS, RAG, Computer Vision, NLP",Full-Time,On-site,2026-06-22,10,7
+120,AI Engineer,12.6,2.0,"NLP, Linux, PyTorch, MLOps, LangChain, TensorFlow, Computer Vision, AWS",Full-Time,Remote,2026-06-15,7,3
+121,Full Stack Developer,13.5,1.0,"React, JavaScript, Docker, Bootstrap, Redux, Node.js, Express.js",Full-Time,On-site,2026-06-26,7,5
+122,Software Engineer,7.6,2.0,"Python, Testing, OOP, Microservices, Data Structures, Debugging, Java",Full-Time,Remote,2026-06-20,9,2
+123,Java Developer,11.6,1.0,"Spring Boot, System Design, JUnit, REST API, Spring Security, Microservices",Full-Time,Remote,2026-06-07,12,9
+124,ML Engineer,16.3,0.0,"Model Deployment, NLP, Deep Learning, CI/CD, Azure, Git",Full-Time,On-site,2026-06-30,11,10
+125,Data Engineer,11.3,0.0,"Big Data, Excel, Data Cleaning, Tableau, Data Visualization, CI/CD, Airflow, Problem Solving",Full-Time,Remote,2026-06-04,1,2
+126,AI Engineer,13.1,0.0,"Model Deployment, LangChain, TensorFlow, RAG, AWS, Linux, LLMs, Computer Vision",Full-Time,On-site,2026-06-26,11,1
+127,Java Developer,3.3,0.0,"OOP, Java, Microservices, Redis, JPA",Internship,Remote,2026-06-16,9,10
+128,Data Scientist,4.7,0.5,"Data Mining, SQL, Machine Learning, A/B Testing, Statistics, Big Data, Deep Learning",Internship,Remote,2026-06-13,10,5
+129,Full Stack Developer,5.4,0.5,"Node.js, AWS, TypeScript, Firebase, Bootstrap, Docker, CSS, Express.js",Internship,On-site,2026-06-06,1,1
+130,Java Developer,7.7,1.0,"Git, Maven, JUnit, OOP, Redis, Hibernate",Full-Time,On-site,2026-06-10,8,8
+131,Backend Developer,5.8,0.5,"MySQL, Microservices, System Design, CI/CD, Redis, Linux, JUnit",Internship,On-site,2026-06-26,7,7
+132,Data Analyst,5.0,0.0,"R Programming, Google Sheets, Power BI, Data Cleaning, SQL, Excel, Forecasting",Full-Time,On-site,2026-06-09,1,8
+133,Java Developer,4.5,0.0,"Maven, Linux, AWS, CI/CD, Docker, MySQL, Microservices",Internship,On-site,2026-06-01,12,7
+134,ML Engineer,4.9,0.0,"PyTorch, Linux, Git, SQL, MLOps, NLP",Internship,Remote,2026-06-03,11,5
+135,Data Engineer,15.6,2.0,"Hadoop, Dashboarding, Python, NoSQL, Statistics, Tableau",Full-Time,Remote,2026-06-21,12,9
+136,Full Stack Developer,4.9,0.5,"Redux, JWT, Firebase, Next.js, Docker, Bootstrap, CSS, JavaScript",Internship,Remote,2026-06-22,6,1
+137,Data Analyst,3.3,0.0,"Forecasting, Data Visualization, A/B Testing, Problem Solving, Power BI, Pandas",Internship,On-site,2026-06-22,3,8
+138,Data Scientist,9.9,2.0,"Feature Engineering, Big Data, Data Visualization, AWS, Jupyter, Power BI, Scikit-Learn",Full-Time,Remote,2026-06-30,4,8
+139,Software Engineer,5.3,0.5,"Testing, Linux, AWS, Data Structures, System Design, Debugging",Internship,On-site,2026-06-05,3,7
+140,Backend Developer,13.3,1.0,"Redis, Git, Microservices, Docker, Spring Boot, System Design",Full-Time,On-site,2026-06-03,1,8
+141,ML Engineer,17.7,1.0,"PyTorch, Feature Engineering, Git, Spark, Model Deployment, Azure, TensorFlow, CI/CD",Full-Time,Remote,2026-06-17,10,2
+142,Backend Developer,14.8,0.0,"AWS, Java, API Design, JUnit, REST API",Full-Time,On-site,2026-06-15,5,9
+143,Data Analyst,3.8,0.5,"Tableau, Communication, Statistics, SQL, Google Sheets",Internship,On-site,2026-06-21,1,7
+144,Data Analyst,3.2,0.5,"Problem Solving, Python, R Programming, Data Cleaning, A/B Testing, MySQL, Forecasting, Dashboarding",Internship,On-site,2026-06-09,8,3
+145,Cloud Engineer,4.3,0.5,"Kubernetes, Git, GCP, Terraform, Cost Optimization, Jenkins",Internship,On-site,2026-06-06,1,3
+146,Data Scientist,9.5,0.0,"Data Visualization, Machine Learning, Azure, Tableau, Big Data, Pandas",Full-Time,Remote,2026-06-05,10,5
+147,Full Stack Developer,10.3,2.0,"Bootstrap, Next.js, Docker, CI/CD, Node.js, CSS",Full-Time,Remote,2026-06-20,1,2
+148,Data Engineer,11.1,2.0,"Kafka, MySQL, ETL, Big Data, Excel",Full-Time,Remote,2026-06-22,12,7
+149,Java Developer,8.3,2.0,"Microservices, Java, Design Patterns, System Design, Spring Boot, REST API",Full-Time,On-site,2026-06-08,9,8
+150,Data Engineer,12.6,2.0,"Reporting, Statistics, NoSQL, Docker, Forecasting, Gitics, Dashboarding",Full-Time,Remote,2026-06-19,2,7
+151,Java Developer,3.4,0.0,"Java, Redis, REST API, Microservices, System Design",Internship,On-site,2026-06-18,3,8
+152,Cloud Engineer,14.3,0.0,"Load Balancing, Networking, Linux, Cost Optimization, Azure, Serverless, Infrastructure as Code, DNS",Full-Time,Remote,2026-06-17,2,2
+153,Software Engineer,4.2,0.0,"CI/CD, Problem Solving, AWS, MySQL, Debugging, Java, Docker",Internship,Remote,2026-06-11,2,5
+154,Java Developer,4.3,0.5,"Linux, MySQL, JPA, Docker, Kafka, CI/CD, Git",Internship,On-site,2026-06-05,8,4
+155,Data Scientist,9.6,2.0,"NumPy, A/B Testing, Data Mining, Statistics, Feature Engineering, Jupyter, PyTorch",Full-Time,On-site,2026-06-14,4,2
+156,Cloud Engineer,8.7,2.0,"Networking, Azure, Serverless, Bash, AWS, DNS, Cost Optimization",Full-Time,On-site,2026-06-28,2,1
+157,ML Engineer,17.7,2.0,"Machine Learning, AWS, Computer Vision, CI/CD, Kubernetes, Python, Model Deployment, Azure",Full-Time,On-site,2026-06-19,2,4
+158,Java Developer,7.3,1.0,"Hibernate, Spring Security, JUnit, MySQL, REST API, Microservices, Git",Full-Time,On-site,2026-06-07,6,7
+159,Full Stack Developer,9.9,0.0,"HTML, JavaScript, Next.js, Node.js, Docker",Full-Time,On-site,2026-06-24,2,7
+160,Software Engineer,4.6,0.0,"Linux, CI/CD, REST API, C++, MySQL, SQL, Docker, System Design",Internship,Remote,2026-06-17,7,1
+161,Data Analyst,4.3,1.0,"MySQL, Data Visualization, Reporting, Python, Pandas, Data Mining, Tableau",Full-Time,Remote,2026-06-08,1,3
+162,AI Engineer,18.3,0.0,"LLMs, Vector Databases, Docker, Prompt Engineering, Transformers",Full-Time,Remote,2026-06-23,2,9
+163,Full Stack Developer,3.9,0.0,"SQL, Redux, Git, JavaScript, CSS, JWT, MongoDB, Docker",Internship,Remote,2026-06-16,2,7
+164,Full Stack Developer,13.4,2.0,"MongoDB, Node.js, Docker, React, SQL, HTML, CSS",Full-Time,On-site,2026-06-17,2,3
+165,Software Engineer,12.2,0.0,"JavaScript, Java, REST API, Debugging, AWS, Algorithms",Full-Time,Remote,2026-06-23,2,4
+166,AI Engineer,7.0,0.5,"RAG, Computer Vision, MLOps, Deep Learning, Machine Learning, Model Deployment, NLP, LLMs",Internship,On-site,2026-06-06,11,1
+167,Data Scientist,5.1,0.5,"TensorFlow, Azure, PyTorch, Jupyter, AWS, Deep Learning, Data Visualization, SQL",Internship,Remote,2026-06-17,4,10
+168,AI Engineer,14.2,2.0,"Computer Vision, Kubernetes, RAG, LLMs, TensorFlow, Transformers",Full-Time,Remote,2026-06-06,7,10
+169,Java Developer,6.4,1.0,"Docker, MySQL, Java, Git, Spring Boot",Full-Time,Remote,2026-06-20,12,3
+170,Java Developer,5.2,0.0,"Git, Docker, Spring Boot, Design Patterns, Spring Security, System Design, JUnit, Hibernate",Full-Time,Remote,2026-06-28,8,5
+171,Backend Developer,6.4,0.0,"Caching, JUnit, Kafka, API Design, MongoDB, Redis",Full-Time,On-site,2026-06-19,1,8
+172,Data Scientist,4.3,0.0,"Machine Learning, NumPy, SQL, Data Visualization, Pandas, Jupyter",Internship,Remote,2026-06-18,10,3
+173,Backend Developer,13.9,0.0,"Nginx, MongoDB, Spring Boot, Java, CI/CD",Full-Time,Remote,2026-06-07,1,4
+174,Full Stack Developer,4.2,0.5,"Next.js, Docker, React, Node.js, TypeScript, Bootstrap",Internship,On-site,2026-06-28,6,8
+175,Full Stack Developer,8.0,2.0,"Next.js, Express.js, JavaScript, Redux, SQL",Full-Time,On-site,2026-06-24,2,5
+176,Backend Developer,5.4,0.5,"MongoDB, Kafka, Linux, REST API, Spring Boot",Internship,On-site,2026-06-14,2,9
+177,Data Analyst,2.6,0.5,"SQL, Google Sheets, Reporting, Power BI, Data Mining, Tableau",Internship,On-site,2026-06-30,12,4
+178,Cloud Engineer,6.7,0.5,"Linux, Kubernetes, Terraform, Git, Infrastructure as Code",Internship,On-site,2026-06-02,7,3
+179,ML Engineer,7.0,0.5,"PyTorch, MLOps, CI/CD, Feature Engineering, Kafka, Linux",Internship,Remote,2026-06-15,11,1
+180,Data Analyst,6.1,0.0,"SQL, Communication, Statistics, R Programming, Reporting",Full-Time,On-site,2026-06-18,8,1
+181,AI Engineer,15.9,2.0,"Prompt Engineering, Machine Learning, PyTorch, Vector Databases, Kubernetes, RAG, Deep Learning",Full-Time,Remote,2026-06-14,10,5
+182,ML Engineer,5.0,0.5,"Git, Spark, MLOps, Deep Learning, TensorFlow, SQL, CI/CD",Internship,On-site,2026-06-22,11,4
+183,ML Engineer,12.8,2.0,"NLP, PyTorch, Feature Engineering, Deep Learning, Computer Vision, Spark, Machine Learning",Full-Time,Remote,2026-06-29,1,5
+184,Java Developer,4.5,0.0,"JUnit, Spring Security, REST API, Design Patterns, Docker, Hibernate",Internship,On-site,2026-06-06,8,4
+185,Data Scientist,11.1,0.0,"Feature Engineering, Data Mining, PyTorch, Python, Tableau, Deep Learning",Full-Time,On-site,2026-06-06,10,10
+186,Data Analyst,8.5,2.0,"Google Sheets, Forecasting, Data Mining, Business Intelligence, Excel, Dashboarding, Communication",Full-Time,Remote,2026-06-09,3,8
+187,Software Engineer,10.0,1.0,"REST API, MySQL, Linux, Microservices, C++",Full-Time,Remote,2026-06-06,6,7
+188,Data Engineer,11.0,2.0,"MySQL, CI/CD, Data Pipelines, Spark, Google Sheets, AWS, Problem Solving",Full-Time,Remote,2026-06-05,12,10
+189,Backend Developer,4.7,0.5,"Spring Boot, Java, JUnit, Spring Security, AWS",Internship,Remote,2026-06-10,7,1
+190,ML Engineer,14.7,1.0,"Kafka, Model Deployment, PyTorch, Azure, Git, Deep Learning, Python",Full-Time,Remote,2026-06-28,10,4
+191,Data Analyst,4.9,1.0,"Pandas, Problem Solving, MySQL, Dashboarding, Data Mining, R Programming, Data Cleaning, Google Sheets",Full-Time,Remote,2026-06-10,8,1
+192,Java Developer,10.9,2.0,"Spring Boot, Spring Security, Git, JUnit, Java, Redis, System Design",Full-Time,On-site,2026-06-09,8,2
+193,Data Analyst,2.7,0.0,"R Programming, SQL, Reporting, Tableau, Google Sheets, Data Visualization, Dashboarding",Internship,Remote,2026-06-14,4,4
+194,ML Engineer,16.5,0.0,"SQL, Computer Vision, NLP, TensorFlow, Linux, Azure, Kubernetes, MLOps",Full-Time,Remote,2026-06-02,1,3
+195,ML Engineer,6.0,0.5,"Azure, Deep Learning, Kubernetes, CI/CD, TensorFlow",Internship,On-site,2026-06-14,1,4
+196,Backend Developer,11.0,0.0,"JUnit, AWS, Docker, Kafka, Git, MySQL",Full-Time,On-site,2026-06-20,5,10
+197,ML Engineer,16.6,2.0,"AWS, Kubernetes, Deep Learning, NLP, Feature Engineering, Model Deployment, MLOps",Full-Time,Remote,2026-06-18,7,9
+198,Software Engineer,3.3,0.5,"SQL, JavaScript, Microservices, Problem Solving, AWS, CI/CD",Internship,Remote,2026-06-30,7,2
+199,Data Analyst,3.9,0.5,"Power BI, Statistics, Python, Excel, Data Visualization, A/B Testing",Internship,Remote,2026-06-15,12,7
+200,Full Stack Developer,12.1,2.0,"REST API, Express.js, Next.js, Node.js, Firebase, MongoDB, HTML",Full-Time,Remote,2026-06-17,1,3
+201,Java Developer,6.9,1.0,"Redis, Design Patterns, JUnit, Microservices, Git, JPA",Full-Time,On-site,2026-06-19,9,4
+202,Full Stack Developer,8.0,1.0,"React, MongoDB, Bootstrap, CSS, Firebase, JWT",Full-Time,Remote,2026-06-16,1,7
+203,AI Engineer,6.6,0.0,"TensorFlow, LLMs, Python, Deep Learning, Kubernetes, PyTorch, MLOps, Transformers",Internship,Remote,2026-06-19,7,8
+204,Software Engineer,5.0,0.5,"Testing, Docker, System Design, SQL, Algorithms, Java, MySQL",Internship,On-site,2026-06-30,6,3
+205,Data Scientist,13.1,2.0,"A/B Testing, Scikit-Learn, Statistics, Machine Learning, Tableau, PyTorch, AWS",Full-Time,On-site,2026-06-21,4,5
+206,Data Scientist,5.8,0.0,"PyTorch, Power BI, A/B Testing, Feature Engineering, Deep Learning, SQL, NumPy, Statistics",Internship,Remote,2026-06-11,1,9
+207,Data Scientist,10.2,1.0,"Statistics, Jupyter, NumPy, Tableau, Azure, TensorFlow",Full-Time,Remote,2026-06-11,10,8
+208,Cloud Engineer,5.6,0.5,"AWS, Azure, Docker, Python, Jenkins, GCP, Git, Networking",Internship,On-site,2026-06-28,1,10
+209,Data Analyst,7.6,0.0,"Reporting, Tableau, Pandas, Dashboarding, SQL, Data Visualization, A/B Testing, Problem Solving",Full-Time,Remote,2026-06-28,1,1
+210,Data Scientist,11.4,1.0,"Azure, Machine Learning, A/B Testing, PyTorch, Python, Power BI",Full-Time,Remote,2026-06-18,2,2
+211,Software Engineer,4.6,0.0,"JavaScript, AWS, Problem Solving, Microservices, OOP, MySQL, C++, SQL",Internship,Remote,2026-06-12,3,7
+212,Java Developer,11.7,1.0,"Design Patterns, Hibernate, JUnit, Microservices, Redis",Full-Time,On-site,2026-06-05,3,9
+213,Data Analyst,3.5,0.5,"Data Visualization, A/B Testing, Reporting, SQL, Python, Tableau",Internship,On-site,2026-06-25,8,5
+214,Software Engineer,11.5,2.0,"Git, Testing, Python, Data Structures, OOP",Full-Time,Remote,2026-06-11,2,8
+215,Java Developer,7.7,2.0,"Maven, JUnit, Spring Boot, Git, Microservices",Full-Time,On-site,2026-06-28,8,4
+216,Data Analyst,5.7,2.0,"Power BI, Reporting, ETL, Business Intelligence, Google Sheets, Problem Solving",Full-Time,On-site,2026-06-01,1,7
+217,ML Engineer,6.4,0.5,"Python, Model Deployment, Kafka, Feature Engineering, Computer Vision, CI/CD, MLOps, Machine Learning",Internship,On-site,2026-06-11,2,4
+218,Backend Developer,4.9,0.5,"MongoDB, API Design, Microservices, Docker, Spring Security, Kafka",Internship,On-site,2026-06-19,4,7
+219,Data Analyst,9.7,0.0,"Statistics, Python, Data Mining, Business Intelligence, Communication, Problem Solving, A/B Testing, Power BI",Full-Time,Remote,2026-06-26,1,9
+220,Cloud Engineer,4.6,0.5,"Infrastructure as Code, Jenkins, Python, Kubernetes, Monitoring",Internship,On-site,2026-06-30,2,2
+221,Cloud Engineer,5.7,0.0,"Load Balancing, CI/CD, Docker, DNS, Linux, Terraform",Internship,On-site,2026-06-28,12,3
+222,Full Stack Developer,12.1,2.0,"Redux, Firebase, JavaScript, Tailwind CSS, REST API",Full-Time,On-site,2026-06-24,7,3
+223,Data Scientist,5.4,0.0,"Azure, Power BI, PyTorch, Data Mining, Machine Learning, Python, Statistics",Internship,On-site,2026-06-15,1,10
+224,AI Engineer,7.5,0.5,"Linux, RAG, LangChain, Git, Docker, PyTorch, MLOps",Internship,On-site,2026-06-09,10,4
+225,Software Engineer,4.5,0.5,"Microservices, CI/CD, Data Structures, Git, MySQL, Python",Internship,On-site,2026-06-19,1,7
+226,Data Engineer,12.4,2.0,"Data Pipelines, Snowflake, Data Cleaning, Docker, Hadoop, Excel",Full-Time,Remote,2026-06-29,4,1
+227,Cloud Engineer,15.3,0.0,"Kubernetes, Networking, Infrastructure as Code, GCP, Load Balancing, Terraform, Jenkins",Full-Time,Remote,2026-06-17,9,1
+228,Software Engineer,5.5,0.5,"Git, Docker, Microservices, Testing, Java",Internship,On-site,2026-06-07,6,1
+229,Data Engineer,14.4,1.0,"ETL, Linux, Excel, Communication, Business Intelligence, Tableau, MySQL, Power BI",Full-Time,Remote,2026-06-28,7,7
+230,Data Scientist,13.0,0.0,"Tableau, Feature Engineering, Machine Learning, A/B Testing, Pandas, Statistics, Deep Learning, Data Visualization",Full-Time,On-site,2026-06-23,4,4
+231,Full Stack Developer,9.4,2.0,"Next.js, Tailwind CSS, JWT, Express.js, HTML",Full-Time,On-site,2026-06-05,7,10
+232,Data Scientist,12.9,0.0,"Statistics, Deep Learning, NumPy, Tableau, A/B Testing, PyTorch, Azure",Full-Time,On-site,2026-06-21,4,2
+233,Data Analyst,6.8,2.0,"MySQL, Google Sheets, Dashboarding, A/B Testing, SQL, Business Intelligence, Data Cleaning",Full-Time,On-site,2026-06-08,1,8
+234,Backend Developer,4.6,0.0,"Spring Boot, API Design, MySQL, MongoDB, Microservices",Internship,On-site,2026-06-14,5,3
+235,Java Developer,9.2,0.0,"Java, MySQL, Redis, Docker, CI/CD, REST API",Full-Time,Remote,2026-06-19,6,2
+236,Full Stack Developer,5.3,0.5,"Redux, Node.js, Express.js, Git, CI/CD",Internship,On-site,2026-06-19,6,5
+237,Data Engineer,14.3,0.0,"Big Data, Linux, NoSQL, Forecasting, Kafka, Excel, Azure, Data Warehousing",Full-Time,On-site,2026-06-04,12,3
+238,Full Stack Developer,10.9,1.0,"SQL, Bootstrap, HTML, Redux, Node.js, Next.js, JavaScript, CSS",Full-Time,On-site,2026-06-23,4,7
+239,ML Engineer,14.2,0.0,"MLOps, Spark, Docker, Git, AWS, Kafka, CI/CD, Python",Full-Time,Remote,2026-06-20,11,10
+240,Java Developer,10.0,0.0,"System Design, AWS, Maven, JPA, Spring Boot, Git",Full-Time,On-site,2026-06-25,9,7
+241,Backend Developer,4.2,0.5,"Spring Security, PostgreSQL, JUnit, Redis, CI/CD, MongoDB",Internship,On-site,2026-06-01,1,8
+242,ML Engineer,5.0,0.0,"CI/CD, Azure, MLOps, Model Deployment, Computer Vision, Kafka, Feature Engineering",Internship,Remote,2026-06-01,7,2
+243,AI Engineer,6.2,0.5,"LangChain, Deep Learning, Transformers, PyTorch, Kubernetes, TensorFlow",Internship,On-site,2026-06-02,10,1
+244,Full Stack Developer,5.2,0.0,"REST API, JWT, SQL, Bootstrap, TypeScript",Internship,Remote,2026-06-29,7,3
+245,AI Engineer,6.5,0.5,"AWS, NLP, PyTorch, Python, MLOps, Kubernetes, Computer Vision",Internship,On-site,2026-06-04,2,8
+246,Backend Developer,3.6,0.5,"AWS, MongoDB, REST API, Spring Security, MySQL",Internship,Remote,2026-06-15,7,8
+247,Full Stack Developer,11.7,0.0,"Next.js, CI/CD, Redux, JavaScript, Bootstrap",Full-Time,On-site,2026-06-18,4,8
+248,Full Stack Developer,5.7,0.5,"JWT, Docker, Firebase, HTML, CSS",Internship,On-site,2026-06-29,7,1
+249,Cloud Engineer,12.0,0.0,"Git, Jenkins, AWS, Serverless, Networking, Linux, Cost Optimization, Infrastructure as Code",Full-Time,Remote,2026-06-30,2,7
+250,Backend Developer,10.9,0.0,"Git, Microservices, Linux, JUnit, Redis, System Design",Full-Time,Remote,2026-06-29,2,9
+251,Backend Developer,9.0,1.0,"Linux, Spring Boot, MySQL, Git, Kafka",Full-Time,On-site,2026-06-12,7,10
+252,AI Engineer,19.6,1.0,"Linux, NLP, Vector Databases, MLOps, Python, Git",Full-Time,On-site,2026-06-21,7,3
+253,AI Engineer,7.1,0.5,"TensorFlow, RAG, Linux, Transformers, Kubernetes, Python, Prompt Engineering, Machine Learning",Internship,On-site,2026-06-19,2,2
+254,Full Stack Developer,12.9,2.0,"AWS, Git, Tailwind CSS, Redux, CI/CD, Node.js",Full-Time,On-site,2026-06-10,7,8
+255,Software Engineer,6.7,2.0,"REST API, SQL, Python, Algorithms, AWS, MySQL, Java, Debugging",Full-Time,On-site,2026-06-20,2,10
+256,Full Stack Developer,10.5,1.0,"HTML, Express.js, React, TypeScript, AWS, Tailwind CSS, Firebase, CI/CD",Full-Time,On-site,2026-06-19,4,4
+257,Java Developer,7.4,1.0,"System Design, Design Patterns, Git, OOP, AWS, JUnit",Full-Time,On-site,2026-06-16,6,3
+258,Full Stack Developer,4.2,0.0,"REST API, MongoDB, Node.js, Next.js, JWT, Tailwind CSS, Git",Internship,On-site,2026-06-13,2,2
+259,Backend Developer,6.5,0.0,"Docker, REST API, Spring Boot, MongoDB, AWS, MySQL, JUnit",Full-Time,Remote,2026-06-09,4,4
+260,Data Engineer,3.8,0.5,"ETL, Data Cleaning, NoSQL, AWS, Data Warehousing, Statistics, Google Sheets",Internship,Remote,2026-06-18,1,2
+261,Software Engineer,4.7,0.5,"Testing, Debugging, Python, Microservices, REST API",Internship,Remote,2026-06-13,7,9
+262,Data Scientist,11.1,1.0,"TensorFlow, Tableau, Python, Feature Engineering, SQL",Full-Time,On-site,2026-06-27,10,2
+263,Backend Developer,13.7,0.0,"PostgreSQL, Kafka, Caching, Git, Java, Nginx, Docker",Full-Time,On-site,2026-06-18,5,10
+264,ML Engineer,6.6,0.0,"Machine Learning, Computer Vision, Model Deployment, Spark, TensorFlow, Kafka, Deep Learning",Internship,On-site,2026-06-03,11,5
+265,AI Engineer,15.9,1.0,"Computer Vision, Git, Transformers, Docker, PyTorch, RAG",Full-Time,Remote,2026-06-29,2,1
+266,Java Developer,4.0,0.5,"Redis, MySQL, OOP, Maven, Docker, Kafka, Linux",Internship,Remote,2026-06-23,8,2
+267,Java Developer,4.9,0.0,"Redis, REST API, Java, Kafka, Design Patterns, CI/CD, AWS, MySQL",Internship,Remote,2026-06-28,6,5
+268,Data Engineer,10.6,2.0,"Kafka, Redshift, Business Intelligence, Airflow, Google Sheets, Hadoop",Full-Time,On-site,2026-06-09,1,8
+269,Backend Developer,8.9,2.0,"Microservices, Linux, System Design, Git, API Design, Docker, Caching",Full-Time,On-site,2026-06-14,7,5
+270,Full Stack Developer,10.5,0.0,"JWT, Tailwind CSS, Docker, Firebase, REST API, React, SQL, JavaScript",Full-Time,On-site,2026-06-28,2,10
+271,Cloud Engineer,4.8,0.5,"Jenkins, AWS, Cost Optimization, Git, Cloud Security, Monitoring, Kubernetes",Internship,On-site,2026-06-23,2,10
+272,Java Developer,9.5,2.0,"Kafka, Maven, OOP, Hibernate, Linux, AWS, JPA",Full-Time,On-site,2026-06-15,12,2
+273,Software Engineer,5.4,0.5,"AWS, OOP, Testing, Problem Solving, C++",Internship,Remote,2026-06-05,6,2
+274,Data Engineer,12.7,1.0,"Reporting, Pandas, NoSQL, Gitics, Big Data, Data Mining, Business Intelligence, Statistics",Full-Time,Remote,2026-06-15,7,10
+275,AI Engineer,12.9,2.0,"Computer Vision, RAG, Vector Databases, MLOps, LLMs, LangChain, Linux",Full-Time,On-site,2026-06-14,10,7
+276,Cloud Engineer,14.2,0.0,"Bash, DNS, Load Balancing, Kubernetes, Git, Networking, Cloud Security",Full-Time,Remote,2026-06-27,9,4
+277,AI Engineer,14.7,1.0,"LLMs, Model Deployment, RAG, Prompt Engineering, TensorFlow",Full-Time,Remote,2026-06-12,7,1
+278,Cloud Engineer,4.1,0.5,"DNS, Infrastructure as Code, Monitoring, Azure, AWS, CI/CD, Python, Linux",Internship,Remote,2026-06-10,12,7
+279,Backend Developer,5.9,0.0,"Java, Caching, Linux, Git, Kafka, CI/CD, PostgreSQL",Internship,On-site,2026-06-15,5,2
+280,Java Developer,4.8,0.5,"Microservices, Spring Boot, Git, System Design, Design Patterns, Docker",Internship,Remote,2026-06-27,8,5
+281,Data Analyst,3.3,0.0,"Data Mining, Business Intelligence, Excel, SQL, Pandas",Internship,On-site,2026-06-15,12,4
+282,ML Engineer,4.4,0.5,"Python, Git, SQL, Linux, PyTorch, MLOps",Internship,Remote,2026-06-22,2,4
+283,Cloud Engineer,4.9,0.0,"Azure, CI/CD, AWS, Infrastructure as Code, Python, Cloud Security",Internship,On-site,2026-06-29,7,5
+284,Data Scientist,4.7,0.5,"Feature Engineering, Pandas, Scikit-Learn, SQL, TensorFlow, Azure, PyTorch, Statistics",Internship,On-site,2026-06-17,1,10
+285,Data Scientist,4.3,0.5,"Deep Learning, Big Data, Jupyter, AWS, Scikit-Learn, Data Mining, Machine Learning",Internship,Remote,2026-06-04,4,2
+286,Full Stack Developer,3.9,0.5,"Bootstrap, MongoDB, HTML, JavaScript, Docker",Internship,Remote,2026-06-12,6,3
+287,AI Engineer,12.9,1.0,"Prompt Engineering, RAG, Deep Learning, Machine Learning, MLOps, Computer Vision",Full-Time,On-site,2026-06-05,11,1
+288,Data Analyst,8.3,1.0,"Reporting, Tableau, A/B Testing, Pandas, Problem Solving, Excel",Full-Time,On-site,2026-06-05,3,4
+289,Data Scientist,9.4,2.0,"Power BI, TensorFlow, Jupyter, Tableau, Python, Big Data, AWS, Scikit-Learn",Full-Time,On-site,2026-06-18,10,2
+290,Data Scientist,4.3,0.5,"Python, PyTorch, Data Mining, Statistics, TensorFlow, Tableau, Power BI",Internship,Remote,2026-06-07,2,7
+291,Software Engineer,4.4,0.5,"OOP, Python, C++, REST API, Git, Docker",Internship,Remote,2026-06-26,1,5
+292,Full Stack Developer,4.7,0.5,"Firebase, Git, Redux, JavaScript, JWT, TypeScript",Internship,Remote,2026-06-10,1,4
+293,AI Engineer,7.4,0.0,"Model Deployment, PyTorch, NLP, Vector Databases, TensorFlow, Docker",Internship,Remote,2026-06-02,2,1
+294,Backend Developer,6.4,0.0,"MongoDB, Java, Spring Security, MySQL, REST API, Spring Boot, JUnit",Full-Time,On-site,2026-06-19,2,4
+295,AI Engineer,16.2,1.0,"Docker, Transformers, LangChain, Kubernetes, Deep Learning, RAG, Machine Learning, Computer Vision",Full-Time,On-site,2026-06-03,2,3
+296,Backend Developer,12.1,0.0,"AWS, JUnit, Redis, CI/CD, Microservices, Kafka, Git",Full-Time,On-site,2026-06-04,2,5
+297,Cloud Engineer,6.7,0.0,"Networking, Bash, Terraform, Python, Azure",Internship,Remote,2026-06-10,2,1
+298,Data Engineer,3.4,0.0,"Data Cleaning, Communication, Tableau, Reporting, Data Warehousing, Spark, Azure",Internship,Remote,2026-06-17,7,1
+299,Data Engineer,13.9,2.0,"Data Mining, Problem Solving, Data Cleaning, Google Sheets, Excel, MySQL, AWS, ETL",Full-Time,Remote,2026-06-02,4,4
+300,Data Engineer,5.3,0.5,"Data Warehousing, Linux, Redshift, Data Cleaning, Spark, Hadoop, Data Mining, Reporting",Internship,Remote,2026-06-16,12,1
+301,Backend Developer,3.3,0.5,"Redis, Kafka, Git, REST API, Nginx, Caching, JUnit",Internship,Remote,2026-06-01,5,3
+302,Full Stack Developer,7.6,2.0,"Tailwind CSS, TypeScript, Git, Next.js, SQL, JavaScript, Redux",Full-Time,Remote,2026-06-08,4,8
+303,Full Stack Developer,3.5,0.5,"MongoDB, Next.js, Express.js, Firebase, Redux, Docker, Tailwind CSS, React",Internship,On-site,2026-06-15,7,3
+304,Data Engineer,4.4,0.5,"NoSQL, Hadoop, Big Data, Problem Solving, SQL",Internship,On-site,2026-06-06,12,4
+305,Java Developer,11.0,0.0,"OOP, Design Patterns, System Design, Hibernate, Maven",Full-Time,On-site,2026-06-28,8,7
+306,Full Stack Developer,6.5,2.0,"Tailwind CSS, TypeScript, Redux, CSS, Firebase, Express.js",Full-Time,On-site,2026-06-24,2,7
+307,Java Developer,8.2,1.0,"Design Patterns, AWS, System Design, Maven, MySQL, Linux",Full-Time,Remote,2026-06-07,8,3
+308,ML Engineer,7.0,0.5,"NLP, CI/CD, SQL, Computer Vision, Docker, Feature Engineering, TensorFlow, Linux",Internship,On-site,2026-06-29,11,1
+309,ML Engineer,17.6,2.0,"Feature Engineering, NLP, Python, PyTorch, Git, Kubernetes",Full-Time,Remote,2026-06-16,7,1
+310,Data Scientist,12.9,1.0,"Feature Engineering, Pandas, TensorFlow, Azure, Big Data, PyTorch, NumPy",Full-Time,Remote,2026-06-12,1,8
+311,Cloud Engineer,8.2,0.0,"Azure, Kubernetes, Git, DNS, Cloud Security",Full-Time,Remote,2026-06-02,9,2
+312,Data Scientist,14.5,1.0,"Tableau, PyTorch, Data Mining, A/B Testing, NumPy, Python, TensorFlow",Full-Time,On-site,2026-06-27,10,2
+313,ML Engineer,16.7,1.0,"Python, MLOps, SQL, Machine Learning, Feature Engineering, Docker, Git, Deep Learning",Full-Time,Remote,2026-06-29,1,1
+314,Full Stack Developer,5.4,0.5,"CI/CD, TypeScript, Tailwind CSS, Docker, Redux, Bootstrap, React",Internship,Remote,2026-06-22,4,4
+315,Software Engineer,4.5,0.0,"Linux, Python, Git, REST API, Testing, SQL, Algorithms, MySQL",Internship,Remote,2026-06-11,3,1
+316,Java Developer,8.9,2.0,"REST API, Git, Docker, JUnit, Spring Security, Kafka",Full-Time,Remote,2026-06-15,8,10
+317,ML Engineer,4.9,0.5,"SQL, PyTorch, Linux, Machine Learning, Computer Vision",Internship,Remote,2026-06-12,1,5
+318,Data Engineer,4.1,0.5,"Linux, Docker, ETL, AWS, Big Data",Internship,On-site,2026-06-23,2,2
+319,Cloud Engineer,4.6,0.0,"Python, Terraform, Monitoring, Docker, Load Balancing, Azure",Internship,On-site,2026-06-18,1,7
+320,Data Analyst,2.2,0.5,"Problem Solving, MySQL, Data Cleaning, Pandas, SQL",Internship,Remote,2026-06-16,8,4
+321,Backend Developer,3.6,0.5,"CI/CD, Java, Spring Boot, System Design, API Design, Docker, Caching, MySQL",Internship,On-site,2026-06-14,2,1
+322,AI Engineer,7.6,0.5,"AWS, NLP, Docker, Computer Vision, MLOps",Internship,On-site,2026-06-23,2,3
+323,Java Developer,4.1,0.5,"MySQL, Git, Redis, Design Patterns, Kafka",Internship,On-site,2026-06-15,8,7
+324,Cloud Engineer,14.1,0.0,"AWS, Kubernetes, Cloud Security, Bash, Python",Full-Time,On-site,2026-06-04,12,7
+325,Data Scientist,14.1,0.0,"Jupyter, Feature Engineering, Data Mining, Big Data, Pandas",Full-Time,Remote,2026-06-07,2,2
+326,Cloud Engineer,10.6,1.0,"Linux, Kubernetes, AWS, DNS, Azure, Load Balancing, Git",Full-Time,On-site,2026-06-19,2,4
+327,AI Engineer,5.8,0.0,"Docker, LangChain, Model Deployment, Kubernetes, Machine Learning",Internship,On-site,2026-06-04,7,7
+328,Data Engineer,5.0,0.5,"ETL, Data Mining, Google Sheets, Statistics, Linux",Internship,Remote,2026-06-12,2,9
+329,Backend Developer,4.4,0.5,"Git, API Design, Java, Docker, CI/CD, Caching, REST API, System Design",Internship,Remote,2026-06-25,4,7
+330,Cloud Engineer,9.9,0.0,"Terraform, GCP, CI/CD, Git, Kubernetes, Load Balancing, Networking",Full-Time,Remote,2026-06-19,2,9
+331,Cloud Engineer,10.4,2.0,"Infrastructure as Code, Networking, Cloud Security, Git, CI/CD, Cost Optimization",Full-Time,On-site,2026-06-28,9,1
+332,Data Analyst,2.6,0.5,"Data Visualization, R Programming, SQL, Problem Solving, A/B Testing",Internship,Remote,2026-06-30,8,8
+333,Cloud Engineer,6.2,0.5,"Serverless, Kubernetes, CI/CD, Monitoring, Load Balancing, Networking, Terraform",Internship,On-site,2026-06-14,2,2
+334,AI Engineer,19.0,2.0,"Transformers, Prompt Engineering, Python, AWS, Computer Vision, Vector Databases, NLP, Kubernetes",Full-Time,Remote,2026-06-18,11,5
+335,Data Analyst,4.8,0.0,"Pandas, Forecasting, SQL, Business Intelligence, Data Visualization, Reporting, R Programming",Full-Time,On-site,2026-06-02,12,2
+336,Data Analyst,3.3,0.0,"ETL, Data Visualization, Python, Pandas, Power BI, A/B Testing",Internship,On-site,2026-06-16,12,1
+337,Java Developer,11.9,0.0,"System Design, Maven, OOP, Git, Docker, CI/CD",Full-Time,On-site,2026-06-19,3,10
+338,Full Stack Developer,4.1,0.0,"Next.js, JWT, React, SQL, JavaScript",Internship,Remote,2026-06-13,2,10
+339,Java Developer,3.8,0.5,"System Design, REST API, Hibernate, Spring Boot, Git, Spring Security, Maven",Internship,Remote,2026-06-03,12,3
+340,Software Engineer,4.0,0.5,"JavaScript, Data Structures, Debugging, Microservices, REST API, OOP, Java",Internship,On-site,2026-06-13,1,4
+341,Cloud Engineer,16.5,0.0,"Networking, Cloud Security, Serverless, Monitoring, Bash, GCP",Full-Time,On-site,2026-06-14,7,1
+342,AI Engineer,16.7,0.0,"Transformers, RAG, Git, Model Deployment, LangChain",Full-Time,Remote,2026-06-25,10,4
+343,Java Developer,10.4,1.0,"Spring Boot, MySQL, Hibernate, Git, Microservices, Kafka, REST API",Full-Time,Remote,2026-06-02,8,9
+344,Cloud Engineer,12.3,2.0,"Load Balancing, Git, DNS, Cost Optimization, Infrastructure as Code, Kubernetes, Serverless",Full-Time,Remote,2026-06-30,9,10
+345,AI Engineer,16.6,1.0,"Python, Git, Model Deployment, NLP, AWS",Full-Time,On-site,2026-06-20,11,5
+346,Backend Developer,5.2,0.0,"API Design, Spring Boot, Linux, AWS, Redis, Microservices, Java",Internship,Remote,2026-06-22,1,2
+347,Data Analyst,9.3,0.0,"Data Mining, Python, SQL, Google Sheets, R Programming, Statistics, ETL, Tableau",Full-Time,Remote,2026-06-13,12,3
+348,ML Engineer,4.7,0.5,"Git, Machine Learning, Computer Vision, NLP, Linux, Model Deployment",Internship,On-site,2026-06-06,1,2
+349,Cloud Engineer,13.6,1.0,"Cost Optimization, Cloud Security, Azure, Infrastructure as Code, Git, DNS",Full-Time,Remote,2026-06-20,9,9
+350,Java Developer,3.2,0.5,"Spring Security, AWS, Linux, REST API, Spring Boot",Internship,On-site,2026-06-01,12,5
+351,ML Engineer,13.5,0.0,"Model Deployment, Kubernetes, PyTorch, Linux, Machine Learning, Feature Engineering, MLOps, TensorFlow",Full-Time,Remote,2026-06-23,2,7
+352,Data Engineer,11.3,1.0,"Data Visualization, Data Mining, Problem Solving, Statistics, Hadoop, AWS",Full-Time,On-site,2026-06-05,12,3
+353,Data Analyst,3.7,0.0,"Power BI, Dashboarding, SQL, A/B Testing, Forecasting",Internship,On-site,2026-06-24,4,10
+354,AI Engineer,7.5,0.0,"Kubernetes, Linux, Prompt Engineering, Transformers, NLP, Machine Learning, Docker",Internship,On-site,2026-06-05,11,4
+355,Cloud Engineer,10.9,0.0,"Serverless, Bash, AWS, Python, Jenkins, Git, Kubernetes, Load Balancing",Full-Time,On-site,2026-06-29,1,3
+356,AI Engineer,7.0,0.0,"Transformers, Computer Vision, Deep Learning, Prompt Engineering, Vector Databases, Git, AWS, Python",Internship,On-site,2026-06-16,7,1
+357,Full Stack Developer,5.8,0.5,"Node.js, MongoDB, CSS, Git, Next.js",Internship,Remote,2026-06-14,6,1
+358,Cloud Engineer,12.7,2.0,"Networking, Monitoring, DNS, AWS, CI/CD, Azure",Full-Time,Remote,2026-06-07,7,7
+359,Software Engineer,6.0,0.0,"Algorithms, Microservices, Python, Linux, System Design",Internship,Remote,2026-06-18,7,3
+360,Full Stack Developer,11.5,0.0,"Tailwind CSS, SQL, Redux, CSS, JavaScript",Full-Time,Remote,2026-06-19,6,1
+361,ML Engineer,4.8,0.0,"Python, Machine Learning, Docker, SQL, AWS, TensorFlow, Computer Vision, Kafka",Internship,On-site,2026-06-27,7,2
+362,Software Engineer,7.3,2.0,"OOP, Linux, REST API, Microservices, MySQL, Algorithms",Full-Time,On-site,2026-06-05,3,8
+363,Cloud Engineer,5.1,0.0,"Serverless, Docker, Azure, Linux, Kubernetes, Terraform, Bash, GCP",Internship,Remote,2026-06-13,9,10
+364,Full Stack Developer,12.7,1.0,"Bootstrap, AWS, MongoDB, Express.js, JavaScript, Node.js, SQL, Docker",Full-Time,On-site,2026-06-16,1,5
+365,Data Analyst,2.4,0.5,"Communication, Data Visualization, Python, Tableau, Pandas, SQL",Internship,On-site,2026-06-17,4,7
+366,Java Developer,7.4,1.0,"AWS, Kafka, CI/CD, OOP, MySQL",Full-Time,On-site,2026-06-18,6,3
+367,Software Engineer,6.2,2.0,"Data Structures, Java, Microservices, C++, System Design",Full-Time,Remote,2026-06-03,9,7
+368,AI Engineer,6.3,0.5,"TensorFlow, Model Deployment, Machine Learning, Deep Learning, Computer Vision, Prompt Engineering, PyTorch, Git",Internship,On-site,2026-06-14,11,8
+369,Backend Developer,12.1,1.0,"PostgreSQL, MySQL, MongoDB, REST API, Kafka, Caching",Full-Time,On-site,2026-06-17,5,3
+370,Full Stack Developer,4.1,0.5,"Express.js, SQL, TypeScript, Tailwind CSS, Next.js",Internship,On-site,2026-06-28,1,9
+371,Data Scientist,12.3,1.0,"AWS, Python, SQL, Feature Engineering, Data Visualization, Big Data",Full-Time,Remote,2026-06-07,1,5
+372,Software Engineer,5.9,0.5,"Python, JavaScript, Debugging, Java, Git, System Design, Data Structures, MySQL",Internship,Remote,2026-06-10,1,10
+373,ML Engineer,16.1,1.0,"PyTorch, Feature Engineering, Kubernetes, Model Deployment, Computer Vision",Full-Time,Remote,2026-06-15,1,5
+374,ML Engineer,14.1,0.0,"Docker, Machine Learning, MLOps, Python, Computer Vision, CI/CD, AWS",Full-Time,On-site,2026-06-05,10,10
+375,Java Developer,4.3,0.0,"REST API, Design Patterns, Hibernate, Docker, OOP, System Design",Internship,On-site,2026-06-13,3,7
+376,Software Engineer,5.8,0.5,"CI/CD, Testing, Git, SQL, Data Structures, JavaScript",Internship,On-site,2026-06-24,3,10
+377,Java Developer,3.8,0.0,"OOP, AWS, CI/CD, Spring Boot, Spring Security, System Design, Design Patterns",Internship,On-site,2026-06-28,6,9
+378,Cloud Engineer,4.7,0.5,"Load Balancing, Docker, Jenkins, CI/CD, Bash, Python",Internship,On-site,2026-06-30,12,1
+379,Cloud Engineer,6.7,0.5,"Bash, CI/CD, Git, Terraform, GCP, Monitoring, Infrastructure as Code",Internship,Remote,2026-06-07,1,2
+380,Data Engineer,4.8,0.5,"Kafka, Python, Gitics, Airflow, NoSQL, Data Mining",Internship,Remote,2026-06-28,12,2
+381,Full Stack Developer,3.4,0.0,"REST API, Docker, TypeScript, MongoDB, SQL",Internship,Remote,2026-06-11,4,3
+382,Data Engineer,8.3,1.0,"Tableau, Power BI, Gitics, Spark, Google Sheets, Problem Solving, Data Visualization",Full-Time,Remote,2026-06-07,4,1
+383,Data Scientist,4.7,0.0,"Feature Engineering, Data Mining, Pandas, Statistics, Data Visualization, NumPy",Internship,On-site,2026-06-14,4,9
+384,Data Scientist,4.4,0.5,"TensorFlow, Machine Learning, Scikit-Learn, Jupyter, Azure, Statistics",Internship,Remote,2026-06-12,7,4
+385,Full Stack Developer,11.0,2.0,"Express.js, Next.js, TypeScript, MongoDB, CSS",Full-Time,Remote,2026-06-06,7,5
+386,Data Scientist,4.2,0.5,"TensorFlow, Python, Statistics, Scikit-Learn, Power BI, Big Data, NumPy, AWS",Internship,On-site,2026-06-28,1,3
+387,Data Analyst,7.6,1.0,"Statistics, Business Intelligence, SQL, Reporting, Python, Data Cleaning",Full-Time,Remote,2026-06-22,12,7
+388,Data Scientist,8.0,2.0,"Pandas, Machine Learning, Big Data, Data Visualization, NumPy",Full-Time,Remote,2026-06-25,10,8
+389,Java Developer,4.6,0.0,"Spring Boot, Docker, OOP, System Design, JUnit, Git",Internship,Remote,2026-06-14,12,8
+390,AI Engineer,15.7,0.0,"Git, Deep Learning, PyTorch, Model Deployment, Kubernetes",Full-Time,On-site,2026-06-05,2,7
+391,Software Engineer,6.9,1.0,"Docker, Linux, MySQL, System Design, Debugging",Full-Time,Remote,2026-06-28,9,8
+392,Backend Developer,4.9,0.5,"Git, CI/CD, Nginx, Microservices, Linux, MongoDB",Internship,Remote,2026-06-24,5,7
+393,Data Scientist,4.7,0.5,"AWS, Azure, Scikit-Learn, Statistics, Python, Data Visualization, Jupyter, Machine Learning",Internship,Remote,2026-06-16,7,8
+394,Data Scientist,5.8,0.5,"Pandas, Python, Data Visualization, AWS, Machine Learning, Statistics",Internship,Remote,2026-06-03,10,1
+395,Data Scientist,5.4,0.5,"Data Visualization, Tableau, TensorFlow, Pandas, PyTorch, Scikit-Learn",Internship,On-site,2026-06-07,4,5
+396,Java Developer,11.1,0.0,"MySQL, REST API, OOP, JUnit, Hibernate, System Design, Spring Security",Full-Time,On-site,2026-06-06,9,3
+397,Data Scientist,11.3,2.0,"A/B Testing, NumPy, Jupyter, SQL, Feature Engineering, Pandas, Power BI",Full-Time,Remote,2026-06-08,7,4
+398,Data Analyst,4.0,0.5,"Data Visualization, Problem Solving, Reporting, A/B Testing, Business Intelligence, Communication, Data Cleaning",Internship,On-site,2026-06-18,12,1
+399,Full Stack Developer,10.5,2.0,"Redux, Firebase, Docker, JavaScript, HTML",Full-Time,On-site,2026-06-15,7,2
+400,Data Analyst,3.5,0.0,"Google Sheets, MySQL, Data Cleaning, Python, A/B Testing",Internship,On-site,2026-06-19,1,7
+401,Software Engineer,4.2,0.5,"JavaScript, Debugging, CI/CD, Docker, Problem Solving, Python, MySQL, Linux",Internship,Remote,2026-06-09,3,4
+402,Software Engineer,5.1,0.5,"Algorithms, Problem Solving, Microservices, Java, CI/CD, MySQL, REST API",Internship,Remote,2026-06-01,6,9
+403,Backend Developer,12.9,1.0,"MongoDB, REST API, Microservices, Kafka, AWS, Nginx",Full-Time,On-site,2026-06-23,4,9
+404,Backend Developer,6.5,1.0,"CI/CD, AWS, Microservices, API Design, MongoDB, Linux, System Design",Full-Time,On-site,2026-06-09,7,8
+405,Cloud Engineer,6.7,0.0,"AWS, Python, Linux, Monitoring, Cost Optimization",Internship,Remote,2026-06-19,7,5
+406,Data Analyst,7.4,1.0,"ETL, R Programming, Pandas, Data Visualization, SQL, Python, Statistics",Full-Time,On-site,2026-06-18,8,5
+407,AI Engineer,19.1,0.0,"Prompt Engineering, NLP, Docker, Machine Learning, Deep Learning, Python, Model Deployment",Full-Time,On-site,2026-06-04,11,9
+408,Software Engineer,3.5,0.0,"CI/CD, REST API, JavaScript, Docker, Linux, Problem Solving, OOP, Git",Internship,On-site,2026-06-10,7,4
+409,Data Scientist,13.0,0.0,"Data Mining, SQL, Scikit-Learn, Azure, AWS, Data Visualization, Jupyter",Full-Time,On-site,2026-06-20,4,1
+410,Data Engineer,5.6,0.5,"Reporting, Azure, Google Sheets, Power BI, SQL, Excel, AWS",Internship,On-site,2026-06-18,12,3
+411,Cloud Engineer,6.8,0.0,"Docker, DNS, Load Balancing, Monitoring, CI/CD, Cost Optimization",Internship,On-site,2026-06-18,1,4
+412,AI Engineer,5.6,0.0,"Python, NLP, Model Deployment, Deep Learning, Vector Databases, Prompt Engineering",Internship,On-site,2026-06-05,10,7
+413,ML Engineer,15.4,1.0,"MLOps, Computer Vision, Feature Engineering, Kubernetes, AWS, Kafka, Linux",Full-Time,Remote,2026-06-25,10,9
+414,Java Developer,3.8,0.0,"Spring Boot, Kafka, JPA, Microservices, Design Patterns, CI/CD, Maven, System Design",Internship,Remote,2026-06-13,8,10
+415,AI Engineer,16.2,1.0,"Transformers, LangChain, Deep Learning, NLP, Docker",Full-Time,Remote,2026-06-01,10,7
+416,Data Scientist,14.5,1.0,"NumPy, SQL, Machine Learning, Scikit-Learn, Python, Tableau",Full-Time,Remote,2026-06-07,7,5
+417,AI Engineer,6.4,0.5,"PyTorch, Computer Vision, Docker, Model Deployment, Kubernetes, Deep Learning",Internship,On-site,2026-06-16,11,1
+418,AI Engineer,6.0,0.5,"NLP, MLOps, Linux, LLMs, Computer Vision, Python, AWS, PyTorch",Internship,Remote,2026-06-02,7,9
+419,Data Analyst,8.9,1.0,"Python, Pandas, Forecasting, Problem Solving, Data Visualization, A/B Testing",Full-Time,Remote,2026-06-25,1,7
+420,Java Developer,6.3,1.0,"AWS, Spring Security, Git, JPA, Java, Design Patterns",Full-Time,On-site,2026-06-07,6,8
+421,Backend Developer,13.2,2.0,"PostgreSQL, MySQL, Spring Security, MongoDB, Caching, API Design, Redis",Full-Time,Remote,2026-06-13,2,9
+422,Cloud Engineer,6.9,0.5,"GCP, Cloud Security, Load Balancing, Bash, Networking, DNS, Git, Infrastructure as Code",Internship,On-site,2026-06-20,2,9
+423,Data Engineer,13.7,2.0,"Spark, Communication, Data Pipelines, Hadoop, Data Cleaning, Linux",Full-Time,Remote,2026-06-20,1,2
+424,Data Scientist,5.5,0.0,"Python, AWS, Feature Engineering, Power BI, Big Data",Internship,Remote,2026-06-18,1,3
+425,Backend Developer,9.4,2.0,"Microservices, AWS, REST API, Docker, API Design",Full-Time,On-site,2026-06-29,1,1
+426,AI Engineer,17.1,1.0,"Linux, Model Deployment, TensorFlow, Machine Learning, Kubernetes",Full-Time,Remote,2026-06-27,2,4
+427,Java Developer,7.1,0.0,"Docker, Spring Boot, JUnit, CI/CD, Redis, Git",Full-Time,On-site,2026-06-12,6,9
+428,Cloud Engineer,4.5,0.0,"Infrastructure as Code, Terraform, Azure, Python, CI/CD",Internship,On-site,2026-06-04,7,10
+429,Data Scientist,4.7,0.5,"PyTorch, Scikit-Learn, Statistics, Machine Learning, Jupyter, A/B Testing, NumPy, Data Mining",Internship,Remote,2026-06-26,4,2
+430,Java Developer,10.1,2.0,"Docker, JUnit, MySQL, AWS, REST API, Kafka, JPA",Full-Time,Remote,2026-06-10,9,3
+431,Data Scientist,14.4,2.0,"Feature Engineering, PyTorch, SQL, Deep Learning, Big Data, NumPy, Scikit-Learn, Data Visualization",Full-Time,On-site,2026-06-15,2,3
+432,Data Analyst,8.3,2.0,"Python, A/B Testing, ETL, Business Intelligence, Power BI, Tableau, Forecasting, Excel",Full-Time,On-site,2026-06-21,3,3
+433,Java Developer,9.6,1.0,"JPA, JUnit, Microservices, OOP, Hibernate, MySQL, Spring Security, Linux",Full-Time,Remote,2026-06-19,6,4
+434,Data Scientist,11.2,1.0,"NumPy, Azure, Statistics, PyTorch, Data Visualization, A/B Testing",Full-Time,Remote,2026-06-27,7,4
+435,AI Engineer,6.6,0.0,"RAG, Vector Databases, Linux, LangChain, Python, LLMs",Internship,Remote,2026-06-17,11,4
+436,Software Engineer,3.4,0.0,"AWS, C++, Python, REST API, MySQL",Internship,On-site,2026-06-21,9,3
+437,ML Engineer,4.1,0.0,"Model Deployment, AWS, CI/CD, Machine Learning, Linux, Deep Learning, Docker, Kafka",Internship,Remote,2026-06-03,11,9
+438,Data Analyst,2.4,0.5,"Tableau, Power BI, Data Mining, Excel, Pandas, MySQL, Google Sheets",Internship,Remote,2026-06-22,1,10
+439,AI Engineer,7.6,0.0,"AWS, NLP, Machine Learning, Docker, MLOps, PyTorch, Deep Learning, Model Deployment",Internship,On-site,2026-06-22,11,4
+440,Data Engineer,5.1,0.5,"NoSQL, Airflow, Forecasting, Tableau, Linux, Statistics, MySQL",Internship,On-site,2026-06-20,7,7
+441,ML Engineer,13.4,2.0,"Docker, PyTorch, CI/CD, Feature Engineering, Kubernetes, Git",Full-Time,Remote,2026-06-26,10,5
+442,Cloud Engineer,16.3,2.0,"Jenkins, Load Balancing, Kubernetes, Bash, Git, Networking, DNS, Infrastructure as Code",Full-Time,On-site,2026-06-26,12,7
+443,Data Engineer,8.6,2.0,"Business Intelligence, Snowflake, Power BI, Azure, Google Sheets, Forecasting, ETL, Dashboarding",Full-Time,On-site,2026-06-11,1,5
+444,Backend Developer,4.1,0.0,"Linux, API Design, PostgreSQL, Spring Boot, Microservices, JUnit",Internship,On-site,2026-06-18,5,7
+445,Java Developer,8.7,1.0,"REST API, Design Patterns, Microservices, Kafka, Linux, JPA, CI/CD",Full-Time,Remote,2026-06-29,3,2
+446,Software Engineer,9.2,2.0,"REST API, Docker, Problem Solving, CI/CD, SQL",Full-Time,On-site,2026-06-01,7,3
+447,Software Engineer,5.0,0.5,"OOP, Data Structures, Git, MySQL, Docker, Algorithms, CI/CD, Problem Solving",Internship,Remote,2026-06-23,2,8
+448,Software Engineer,13.9,2.0,"OOP, Docker, Java, C++, AWS, MySQL",Full-Time,On-site,2026-06-19,9,1
+449,Software Engineer,3.8,0.5,"Docker, Python, REST API, Git, C++, Java, Testing",Internship,On-site,2026-06-01,9,5
+450,Java Developer,3.6,0.0,"Design Patterns, JUnit, OOP, Maven, Git, AWS, Spring Security",Internship,On-site,2026-06-03,6,10
+451,Cloud Engineer,5.1,0.5,"Docker, Load Balancing, Bash, Linux, Kubernetes, Infrastructure as Code, Azure",Internship,On-site,2026-06-02,2,4
+452,Data Engineer,12.9,0.0,"Docker, PySpark, Gitics, Excel, AWS, A/B Testing",Full-Time,Remote,2026-06-21,4,4
+453,Data Engineer,9.4,0.0,"PySpark, Data Mining, Problem Solving, ETL, Communication, Azure",Full-Time,On-site,2026-06-16,12,1
+454,ML Engineer,17.0,0.0,"Model Deployment, TensorFlow, Kubernetes, MLOps, CI/CD, Computer Vision, AWS, Docker",Full-Time,On-site,2026-06-26,11,4
+455,Data Analyst,2.7,0.5,"ETL, Power BI, Google Sheets, Python, SQL",Internship,Remote,2026-06-22,4,8
+456,Data Analyst,4.5,1.0,"Forecasting, Google Sheets, Python, R Programming, Excel, Pandas, MySQL, Tableau",Full-Time,On-site,2026-06-06,1,2
+457,Data Engineer,11.0,2.0,"Google Sheets, MySQL, PySpark, Data Warehousing, Azure, Kafka, Dashboarding",Full-Time,Remote,2026-06-16,2,4
+458,Java Developer,8.6,1.0,"Redis, CI/CD, Docker, System Design, AWS, Git, Kafka",Full-Time,Remote,2026-06-28,3,2
+459,Data Scientist,10.5,0.0,"Scikit-Learn, Python, AWS, Machine Learning, Data Visualization, Jupyter",Full-Time,Remote,2026-06-22,4,3
+460,Data Analyst,3.8,0.0,"Dashboarding, Data Cleaning, Data Visualization, Power BI, Business Intelligence, ETL, Data Mining, Tableau",Internship,Remote,2026-06-16,12,8
+461,Full Stack Developer,8.8,0.0,"CSS, MongoDB, Tailwind CSS, JavaScript, Express.js, Redux, Next.js",Full-Time,Remote,2026-06-05,4,5
+462,Cloud Engineer,13.3,1.0,"Bash, Terraform, Infrastructure as Code, GCP, Load Balancing",Full-Time,On-site,2026-06-04,2,10
+463,Data Scientist,5.6,0.0,"Machine Learning, SQL, Statistics, Azure, Power BI",Internship,On-site,2026-06-18,4,9
+464,Backend Developer,13.0,0.0,"Docker, CI/CD, Kafka, Redis, Spring Security, System Design, AWS, Linux",Full-Time,Remote,2026-06-04,2,10
+465,ML Engineer,6.4,0.0,"Kafka, AWS, Deep Learning, Git, Docker, Azure, SQL, CI/CD",Internship,Remote,2026-06-11,7,3
+466,Data Engineer,4.0,0.5,"Business Intelligence, Kafka, Docker, Hadoop, ETL, Power BI, Excel, Snowflake",Internship,Remote,2026-06-18,1,8
+467,ML Engineer,11.7,0.0,"Deep Learning, Model Deployment, Docker, Linux, Kafka, Kubernetes, NLP",Full-Time,On-site,2026-06-30,11,8
+468,Java Developer,4.9,0.5,"CI/CD, AWS, OOP, Maven, System Design, Spring Security, Linux, Git",Internship,On-site,2026-06-25,12,7
+469,AI Engineer,5.0,0.0,"Computer Vision, TensorFlow, AWS, Machine Learning, Model Deployment, Git",Internship,Remote,2026-06-09,2,3
+470,Data Engineer,8.7,0.0,"Data Warehousing, Azure, ETL, CI/CD, Gitics, Big Data, Data Pipelines",Full-Time,On-site,2026-06-06,4,5
+471,Full Stack Developer,13.4,1.0,"SQL, Node.js, Firebase, Docker, Tailwind CSS",Full-Time,On-site,2026-06-19,6,4
+472,Software Engineer,3.3,0.5,"Testing, System Design, JavaScript, Algorithms, Linux, Problem Solving",Internship,Remote,2026-06-06,3,1
+473,Cloud Engineer,8.0,2.0,"CI/CD, Infrastructure as Code, Cost Optimization, Bash, Jenkins, Monitoring, Git, AWS",Full-Time,Remote,2026-06-16,7,8
+474,Data Analyst,2.2,0.5,"A/B Testing, Google Sheets, Excel, Communication, Dashboarding, Data Cleaning, Statistics",Internship,On-site,2026-06-01,3,2
+475,AI Engineer,14.5,0.0,"Linux, Computer Vision, LLMs, MLOps, Kubernetes",Full-Time,On-site,2026-06-24,7,2
+476,ML Engineer,15.2,0.0,"AWS, CI/CD, Model Deployment, SQL, Azure, Kafka, Git, Machine Learning",Full-Time,Remote,2026-06-17,1,5
+477,Cloud Engineer,4.5,0.0,"Infrastructure as Code, Jenkins, Monitoring, GCP, Bash, CI/CD, Serverless, AWS",Internship,Remote,2026-06-03,12,8
+478,Backend Developer,3.8,0.0,"System Design, Microservices, Nginx, REST API, Git, API Design",Internship,Remote,2026-06-09,4,5
+479,Full Stack Developer,4.5,0.0,"MongoDB, CSS, Bootstrap, SQL, React, CI/CD",Internship,On-site,2026-06-30,6,5
+480,Data Scientist,4.8,0.5,"Big Data, Scikit-Learn, Data Visualization, Feature Engineering, Deep Learning, SQL, A/B Testing",Internship,On-site,2026-06-06,7,8
+481,Data Engineer,8.3,0.0,"Python, Tableau, Dashboarding, Google Sheets, A/B Testing, Hadoop, PySpark",Full-Time,Remote,2026-06-23,12,8
+482,Java Developer,7.7,0.0,"Design Patterns, REST API, Java, Git, AWS",Full-Time,On-site,2026-06-08,9,3
+483,Backend Developer,6.5,1.0,"AWS, Spring Boot, Java, API Design, MongoDB, Microservices",Full-Time,On-site,2026-06-23,2,3
+484,Software Engineer,3.7,0.5,"SQL, MySQL, JavaScript, Linux, OOP, Docker",Internship,On-site,2026-06-16,9,10
+485,Data Scientist,14.2,1.0,"SQL, NumPy, Deep Learning, Azure, Tableau, PyTorch, Scikit-Learn",Full-Time,On-site,2026-06-14,1,4
+486,Cloud Engineer,11.2,1.0,"AWS, DNS, Azure, Linux, Cloud Security, Jenkins",Full-Time,Remote,2026-06-13,12,5
+487,Java Developer,4.2,0.0,"MySQL, Java, REST API, AWS, Maven, Linux, Microservices",Internship,On-site,2026-06-21,8,9
+488,ML Engineer,11.7,0.0,"Machine Learning, Computer Vision, Kubernetes, Git, MLOps, Kafka, Linux, TensorFlow",Full-Time,On-site,2026-06-23,10,5
+489,ML Engineer,14.3,2.0,"Python, Deep Learning, Kubernetes, Model Deployment, Git, NLP",Full-Time,On-site,2026-06-12,7,3
+490,Software Engineer,14.9,0.0,"Git, Algorithms, SQL, Microservices, AWS, MySQL, OOP",Full-Time,Remote,2026-06-11,6,1
+491,Java Developer,4.1,0.0,"AWS, Spring Boot, MySQL, Microservices, OOP, System Design, JPA, Design Patterns",Internship,Remote,2026-06-11,8,10
+492,ML Engineer,6.0,0.0,"NLP, Feature Engineering, MLOps, Python, Docker, Computer Vision, PyTorch",Internship,Remote,2026-06-11,2,2
+493,AI Engineer,5.4,0.5,"MLOps, Vector Databases, Linux, NLP, Kubernetes, LLMs, RAG, Git",Internship,Remote,2026-06-01,11,8
+494,Data Scientist,5.5,0.5,"Pandas, Data Visualization, PyTorch, Tableau, SQL, Scikit-Learn",Internship,On-site,2026-06-10,1,1
+495,AI Engineer,15.3,0.0,"LLMs, LangChain, Machine Learning, Model Deployment, MLOps, Git, Transformers",Full-Time,On-site,2026-06-23,2,3
+496,Full Stack Developer,7.2,1.0,"CI/CD, Docker, SQL, AWS, TypeScript, Bootstrap, JavaScript",Full-Time,Remote,2026-06-14,2,3
+497,Full Stack Developer,5.7,0.0,"Redux, React, Firebase, Docker, JWT",Internship,Remote,2026-06-07,4,2
+498,Backend Developer,3.2,0.5,"Nginx, Redis, AWS, MySQL, REST API",Internship,On-site,2026-06-29,2,8
+499,ML Engineer,14.4,0.0,"MLOps, Feature Engineering, Machine Learning, Deep Learning, SQL, Python",Full-Time,On-site,2026-06-29,11,3
+500,Full Stack Developer,10.3,1.0,"CI/CD, CSS, JWT, Firebase, JavaScript",Full-Time,Remote,2026-06-30,2,2
